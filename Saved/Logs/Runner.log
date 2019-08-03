@@ -1977,3 +1977,733 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.03-08.52.20:481][981]LogHttp: Warning: 000001FD4AA67C40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
 [2019.08.03-08.52.20:481][981]LogHttp: Warning: 000001FD4AA67C40: libcurl info message cache 1 (Closing connection 21)
 [2019.08.03-08.52.20:814][982]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E327357-44E3-5F20-D74A-6486B39A598D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.03-08.54.21:166][341]LogHttp: Warning: 000001FD4AA67C40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.03-08.54.21:166][341]LogHttp: Warning: 000001FD4AA67C40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.03-08.54.21:166][341]LogHttp: Warning: 000001FD4AA67C40: libcurl info message cache 1 (Closing connection 22)
+[2019.08.03-08.54.21:499][342]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E327357-44E3-5F20-D74A-6486B39A598D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.03-08.56.22:109][702]LogHttp: Warning: 000001FD4AA67C40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.03-08.56.22:109][702]LogHttp: Warning: 000001FD4AA67C40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.03-08.56.22:109][702]LogHttp: Warning: 000001FD4AA67C40: libcurl info message cache 1 (Closing connection 23)
+[2019.08.03-08.56.22:109][702]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E327357-44E3-5F20-D74A-6486B39A598D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.03-08.56.37:629][ 51]LogMaterial: Display: Missing cached shader map for material M_Coins, compiling. 
+[2019.08.03-08.56.37:659][ 51]LogMaterial: Display: Missing cached shader map for material M_Coins, compiling. 
+[2019.08.03-08.56.37:681][ 52]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.08.03-08.56.37:682][ 52]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.03-08.56.37:682][ 52]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.08.03-08.56.39:440][167]LogMaterial: Display: Missing cached shader map for material M_Coins, compiling. 
+[2019.08.03-08.56.39:573][175]LogMaterialEditor: Saving and Compiling material M_Coins
+[2019.08.03-08.56.40:889][175]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.08.03-08.56.40:889][175]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.03-08.56.40:889][175]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.08.03-08.56.40:918][175]LogMaterial: Display: Missing cached shader map for material M_Coins, compiling. 
+[2019.08.03-08.56.41:005][175]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.08.03-08.56.41:005][175]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.03-08.56.41:005][175]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.08.03-08.56.41:020][175]LogMaterial: Display: Missing cached shader map for material M_Coins, compiling. 
+[2019.08.03-08.56.41:052][175]LogMaterial: Display: Missing cached shader map for material M_Coins, compiling. 
+[2019.08.03-08.56.41:148][175]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Coins, compiling. 
+[2019.08.03-08.56.44:393][175]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.08.03-08.56.44:393][175]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.08.03-08.56.44:393][175]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.08.03-08.56.44:393][175]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.08.03-08.56.44:393][175]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.08.03-08.56.44:393][175]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.08.03-08.56.44:393][175]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.08.03-08.56.44:393][175]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.08.03-08.56.44:393][175]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.08.03-08.56.44:393][175]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.08.03-08.56.44:393][175]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.08.03-08.56.44:393][175]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.08.03-08.56.44:393][175]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.08.03-08.56.44:393][175]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.08.03-08.56.44:393][175]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.08.03-08.56.44:393][175]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.08.03-08.56.44:394][175]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.08.03-08.56.44:394][175]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.08.03-08.56.44:394][175]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.08.03-08.56.44:394][175]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.08.03-08.56.44:394][175]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.08.03-08.56.44:394][175]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.08.03-08.56.44:397][175]TextureStreamingBuild: Display: Compiling optional shaders took 3.261 seconds.
+[2019.08.03-08.56.48:001][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Materials/M_Coins" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Materials/M_Coins.uasset" SILENT=true
+[2019.08.03-08.56.48:033][175]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/M_CoinsAB49483F4AA7C802F870F68D80641CA5.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Materials/M_Coins.uasset'
+[2019.08.03-08.56.48:055][175]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.08.03-08.56.48:055][175]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.08.03-08.56.48:055][175]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.08.03-08.56.48:055][175]MaterialEditorStats: Texture samplers: 4/16
+[2019.08.03-08.56.48:055][175]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.08.03-08.56.48:055][175]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.03-08.56.57:874][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.03-08.57.02:058][ 72]LogMaterial: Display: Missing cached shader map for material M_Coins, compiling. 
+[2019.08.03-08.57.02:080][ 72]LogMaterial: Display: Missing cached shader map for material M_Coins, compiling. 
+[2019.08.03-08.57.02:104][ 73]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.08.03-08.57.02:104][ 73]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.03-08.57.02:104][ 73]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.08.03-08.57.03:919][183]LogMaterial: Display: Missing cached shader map for material M_Coins, compiling. 
+[2019.08.03-08.57.03:973][185]LogMaterialEditor: Applying material M_Coins
+[2019.08.03-08.57.04:776][185]LogMaterial: Display: Missing cached shader map for material M_Coins, compiling. 
+[2019.08.03-08.57.04:891][185]LogMaterial: Display: Missing cached shader map for material M_Coins, compiling. 
+[2019.08.03-08.57.04:923][185]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.08.03-08.57.04:929][185]LogMaterial: Display: Missing cached shader map for material M_Coins, compiling. 
+[2019.08.03-08.57.05:025][185]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Coins, compiling. 
+[2019.08.03-08.57.08:687][185]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.08.03-08.57.08:687][185]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.08.03-08.57.08:687][185]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.08.03-08.57.08:687][185]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.08.03-08.57.08:687][185]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.08.03-08.57.08:687][185]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.08.03-08.57.08:687][185]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.08.03-08.57.08:687][185]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.08.03-08.57.08:687][185]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.08.03-08.57.08:687][185]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.08.03-08.57.08:687][185]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.08.03-08.57.08:687][185]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.08.03-08.57.08:687][185]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.08.03-08.57.08:688][185]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.08.03-08.57.08:688][185]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.08.03-08.57.08:688][185]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.08.03-08.57.08:688][185]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.08.03-08.57.08:688][185]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.08.03-08.57.08:688][185]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.08.03-08.57.08:688][185]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.08.03-08.57.08:688][185]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.08.03-08.57.08:688][185]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.08.03-08.57.08:688][185]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.08.03-08.57.08:688][185]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.08.03-08.57.08:691][185]TextureStreamingBuild: Display: Compiling optional shaders took 3.677 seconds.
+[2019.08.03-08.57.09:785][241]LogMaterialEditor: Saving and Compiling material M_Coins
+[2019.08.03-08.57.13:349][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Materials/M_Coins" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Materials/M_Coins.uasset" SILENT=true
+[2019.08.03-08.57.13:378][241]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/M_Coins1C7E524F422AB001C3E03085F2D6D439.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Materials/M_Coins.uasset'
+[2019.08.03-08.57.13:397][241]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.08.03-08.57.13:397][241]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.08.03-08.57.13:397][241]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.08.03-08.57.13:397][241]MaterialEditorStats: Texture samplers: 4/16
+[2019.08.03-08.57.13:397][241]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.08.03-08.57.13:397][241]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.03-08.57.16:642][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.03-08.57.28:766][189]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.08.03-08.57.28:776][189]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.08.03-08.57.28:796][189]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.08.03-08.57.28:796][189]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.08.03-08.57.28:808][189]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.08.03-08.57.28:818][189]LogMaterial: Display: Missing cached shader map for material M_Coins, compiling. 
+[2019.08.03-08.57.28:845][189]LogSlate: Window 'Color Picker' being destroyed
+[2019.08.03-08.57.30:515][291]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.08.03-08.57.31:345][346]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.08.03-08.57.31:595][362]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.03-08.57.31:620][362]LogMaterial: Display: Missing cached shader map for material M_Coins, compiling. 
+[2019.08.03-08.57.32:771][436]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.08.03-08.57.33:825][502]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.03-08.57.33:963][511]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.08.03-08.57.34:178][525]LogMaterialEditor: Saving and Compiling material M_Coins
+[2019.08.03-08.57.34:961][525]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.08.03-08.57.34:961][525]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.08.03-08.57.34:961][525]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.08.03-08.57.34:961][525]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.08.03-08.57.34:991][525]LogMaterial: Display: Missing cached shader map for material M_Coins, compiling. 
+[2019.08.03-08.57.35:084][525]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.08.03-08.57.35:085][525]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.03-08.57.35:121][525]LogMaterial: Display: Missing cached shader map for material M_Coins, compiling. 
+[2019.08.03-08.57.35:163][525]LogMaterial: Display: Missing cached shader map for material M_Coins, compiling. 
+[2019.08.03-08.57.35:261][525]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Coins, compiling. 
+[2019.08.03-08.57.38:609][525]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.08.03-08.57.38:609][525]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.08.03-08.57.38:609][525]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.08.03-08.57.38:609][525]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.08.03-08.57.38:609][525]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.08.03-08.57.38:610][525]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.08.03-08.57.38:610][525]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.08.03-08.57.38:610][525]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.08.03-08.57.38:610][525]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.08.03-08.57.38:610][525]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.08.03-08.57.38:610][525]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.08.03-08.57.38:610][525]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.08.03-08.57.38:610][525]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.08.03-08.57.38:610][525]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.08.03-08.57.38:610][525]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.08.03-08.57.38:610][525]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.08.03-08.57.38:610][525]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.08.03-08.57.38:610][525]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.08.03-08.57.38:610][525]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.08.03-08.57.38:610][525]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.08.03-08.57.38:610][525]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.08.03-08.57.38:610][525]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.08.03-08.57.38:610][525]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.08.03-08.57.38:613][525]TextureStreamingBuild: Display: Compiling optional shaders took 3.364 seconds.
+[2019.08.03-08.57.42:327][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Materials/M_Coins" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Materials/M_Coins.uasset" SILENT=true
+[2019.08.03-08.57.42:354][525]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/M_CoinsFCA9470D482A06E55D2E05A9CB992E52.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Materials/M_Coins.uasset'
+[2019.08.03-08.57.42:381][525]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.08.03-08.57.42:381][525]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.08.03-08.57.42:381][525]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.08.03-08.57.42:381][525]MaterialEditorStats: Texture samplers: 4/16
+[2019.08.03-08.57.42:381][525]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.08.03-08.57.42:381][525]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.03-08.57.45:736][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.03-08.58.22:646][495]LogHttp: Warning: 000001FD7C9FB9C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.03-08.58.22:646][495]LogHttp: Warning: 000001FD7C9FB9C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.03-08.58.22:646][495]LogHttp: Warning: 000001FD7C9FB9C0: libcurl info message cache 1 (Closing connection 24)
+[2019.08.03-08.58.22:975][496]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E327357-44E3-5F20-D74A-6486B39A598D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.03-09.00.23:615][856]LogHttp: Warning: 000001FD7C9FB9C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.03-09.00.23:615][856]LogHttp: Warning: 000001FD7C9FB9C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.03-09.00.23:615][856]LogHttp: Warning: 000001FD7C9FB9C0: libcurl info message cache 1 (Closing connection 25)
+[2019.08.03-09.00.23:616][856]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E327357-44E3-5F20-D74A-6486B39A598D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.03-09.01.27:917][639]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.08.03-09.01.39:249][468]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Runner/Blue_Prints/CoinBP.CoinBP
+[2019.08.03-09.01.42:200][587]LogSlate: Window 'CoinBP*' being destroyed
+[2019.08.03-09.01.47:915][910]LogSlate: Window 'Save Content' being destroyed
+[2019.08.03-09.01.47:946][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.03-09.01.47:962][910]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBPAC16D14742008A1C75E59A8E6DE08ADF.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.03-09.02.23:653][242]LogHttp: Warning: 000001FDB4DBE980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.03-09.02.23:653][242]LogHttp: Warning: 000001FDB4DBE980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.03-09.02.23:653][242]LogHttp: Warning: 000001FDB4DBE980: libcurl info message cache 1 (Closing connection 26)
+[2019.08.03-09.02.23:653][242]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E327357-44E3-5F20-D74A-6486B39A598D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.03-09.02.28:714][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.03-09.02.48:914][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.03-09.02.48:992][ 44]BlueprintLog: New page: Compile CoinBP
+[2019.08.03-09.02.49:694][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.03-09.02.49:737][ 67]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBPA3197F954B180E450A304790D1490030.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.03-09.04.23:674][946]LogHttp: Warning: 000001FDB4DBD1C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.03-09.04.23:674][946]LogHttp: Warning: 000001FDB4DBD1C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.03-09.04.23:674][946]LogHttp: Warning: 000001FDB4DBD1C0: libcurl info message cache 1 (Closing connection 27)
+[2019.08.03-09.04.23:674][946]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E327357-44E3-5F20-D74A-6486B39A598D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.03-09.04.23:895][964]BlueprintLog: New page: Compile CoinBP
+[2019.08.03-09.04.24:986][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.03-09.04.25:017][ 19]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBP06E3AF5A4A3F8E266794AB9A95B8ECB3.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.03-09.05.16:810][115]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2019.08.03-09.05.25:509][948]LogSlate: Took 0.100288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.03-09.05.27:941][194]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2019.08.03-09.05.28:915][262]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/ThirdPersonGameModeC6B895FE42D4EA07145BA382C4E939A3.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2019.08.03-09.06.23:692][231]LogHttp: Warning: 000001FDB3089E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.03-09.06.23:693][231]LogHttp: Warning: 000001FDB3089E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.03-09.06.23:693][231]LogHttp: Warning: 000001FDB3089E40: libcurl info message cache 1 (Closing connection 28)
+[2019.08.03-09.06.23:703][232]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E327357-44E3-5F20-D74A-6486B39A598D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.03-09.08.22:155][553]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Runner/Levels/Level1' took 0.044
+[2019.08.03-09.08.22:156][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Runner/Blue_Prints/CoinBP] ([1] browsable assets)...
+[2019.08.03-09.08.22:186][553]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Runner/Blue_Prints/CoinBP.CoinBP]
+[2019.08.03-09.08.22:186][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/Runner/Blue_Prints/CoinBP]
+[2019.08.03-09.08.22:230][553]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBP_Auto24428214042ED54F4419AC0B9AF54E4F8.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Saved/Autosaves/Game/Runner/Blue_Prints/CoinBP_Auto2.uasset'
+[2019.08.03-09.08.22:231][553]LogFileHelpers: Auto-saving content packages took 0.076
+[2019.08.03-09.08.24:089][560]LogHttp: Warning: 000001FDB7DA96C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.03-09.08.24:089][560]LogHttp: Warning: 000001FDB7DA96C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.03-09.08.24:089][560]LogHttp: Warning: 000001FDB7DA96C0: libcurl info message cache 1 (Closing connection 29)
+[2019.08.03-09.08.24:090][560]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E327357-44E3-5F20-D74A-6486B39A598D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.03-09.10.24:687][870]LogHttp: Warning: 000001FDB2AAE200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.03-09.10.24:687][870]LogHttp: Warning: 000001FDB2AAE200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.03-09.10.24:687][870]LogHttp: Warning: 000001FDB2AAE200: libcurl info message cache 1 (Closing connection 30)
+[2019.08.03-09.10.24:687][870]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E327357-44E3-5F20-D74A-6486B39A598D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.03-09.11.00:144][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.03-09.11.00:180][404]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBPBE96476E49BAFDB8BB9F66AFEE48CA43.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.03-09.11.55:281][465]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SE\Self Works\Year 03 - sem 01\Game Development\BallZ\MobileGame\BallZ\Assets\Music\Star.wav)
+[2019.08.03-09.12.24:728][816]LogHttp: Warning: 000001FD89C36AC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.03-09.12.24:730][816]LogHttp: Warning: 000001FD89C36AC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.03-09.12.24:730][816]LogHttp: Warning: 000001FD89C36AC0: libcurl info message cache 1 (Closing connection 31)
+[2019.08.03-09.12.24:730][816]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E327357-44E3-5F20-D74A-6486B39A598D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.03-09.12.48:863][226]BlueprintLog: New page: Compile CoinBP
+[2019.08.03-09.12.50:299][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.03-09.12.50:348][293]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBP236536294DEE3183B763E68CA7D8DFE3.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.03-09.13.30:497][589]BlueprintLog: New page: Compile CoinBP
+[2019.08.03-09.13.31:201][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.03-09.13.31:275][613]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBP6D77D07E4E87883047C65C91DFD4A290.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.03-09.14.25:122][821]LogHttp: Warning: 000001FD89995940: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.03-09.14.25:122][821]LogHttp: Warning: 000001FD89995940: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.03-09.14.25:122][821]LogHttp: Warning: 000001FD89995940: libcurl info message cache 1 (Closing connection 32)
+[2019.08.03-09.14.25:464][822]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E327357-44E3-5F20-D74A-6486B39A598D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.03-09.14.32:874][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.03-09.14.32:900][958]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBP0A38DD764ED2D7BF0B3445B6756E2785.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.03-09.14.33:979][ 22]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.03-09.14.42:941][534]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Runner/Blue_Prints/B_Master_Tile.B_Master_Tile
+[2019.08.03-09.15.00:509][552]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.03-09.16.12:472][812]BlueprintLog: New page: Compile B_Master_Tile
+[2019.08.03-09.16.13:410][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/B_Master_Tile" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/B_Master_Tile.uasset" SILENT=true
+[2019.08.03-09.16.13:480][845]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/B_Master_TileD67F3FA746FC9AE9B688D3BCC4479253.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/B_Master_Tile.uasset'
+[2019.08.03-09.16.26:089][ 45]LogHttp: Warning: 000001FD4955AC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.03-09.16.26:090][ 45]LogHttp: Warning: 000001FD4955AC00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.03-09.16.26:090][ 45]LogHttp: Warning: 000001FD4955AC00: libcurl info message cache 1 (Closing connection 33)
+[2019.08.03-09.16.26:423][ 46]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E327357-44E3-5F20-D74A-6486B39A598D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.03-09.16.43:486][603]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Runner/Blue_Prints/CoinBP.CoinBP
+[2019.08.03-09.16.48:668][879]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.03-09.16.48:702][879]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.16.48:702][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.03-09.16.48:702][879]PIE: New page: PIE session: Level1 (Aug 3, 2019, 8:16:48 PM)
+[2019.08.03-09.16.48:702][879]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.03-09.16.48:705][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002850s)
+[2019.08.03-09.16.48:706][879]LogAIModule: Creating AISystem for world Level1
+[2019.08.03-09.16.48:706][879]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2019.08.03-09.16.48:706][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.004239s)
+[2019.08.03-09.16.48:753][879]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.03-09.16.48:806][879]LogInit: FAudioDevice initialized.
+[2019.08.03-09.16.48:844][879]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.03-09.16.48:845][879]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.03-14.46.48
+[2019.08.03-09.16.48:845][879]LogWorld: Bringing up level for play took: 0.000561
+[2019.08.03-09.16.48:869][879]PIE: Play in editor start time for /Game/Runner/Levels/UEDPIE_0_Level1 0.641
+[2019.08.03-09.16.48:869][879]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.16.49:290][891]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.03-09.16.55:041][236]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.03-09.16.55:857][285]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.03-09.16.56:657][333]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.03-09.16.57:458][381]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.03-09.16.57:784][387]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Star...
+[2019.08.03-09.16.57:944][387]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 192508 while cooking SoundWave /Game/Runner/Audio/Star.Star.
+[2019.08.03-09.16.58:273][398]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.03-09.16.59:055][445]LogBlueprintUserMessages: [B_Master_Tile_C_6] 7
+[2019.08.03-09.16.59:846][481]LogBlueprintUserMessages: [B_Master_Tile_C_7] 8
+[2019.08.03-09.17.00:613][527]LogBlueprintUserMessages: [B_Master_Tile_C_8] 9
+[2019.08.03-09.17.01:379][573]LogBlueprintUserMessages: [B_Master_Tile_C_9] 10
+[2019.08.03-09.17.02:129][618]LogBlueprintUserMessages: [B_Master_Tile_C_10] 11
+[2019.08.03-09.17.02:883][663]LogBlueprintUserMessages: [B_Master_Tile_C_11] 12
+[2019.08.03-09.17.03:615][707]LogBlueprintUserMessages: [B_Master_Tile_C_12] 13
+[2019.08.03-09.17.04:348][751]LogBlueprintUserMessages: [B_Master_Tile_C_13] 14
+[2019.08.03-09.17.04:687][770]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=689.68 Y=0.00 Z=0.00 Location: X=6995.77 Y=99.96 Z=136.02 Normal: X=-0.71 Y=-0.00 Z=0.71 PenetrationDepth:9.626 Actor:SpikesBP_C_4 Component:StaticMesh BoneName:None (0 other events since notify)
+[2019.08.03-09.17.05:097][795]LogBlueprintUserMessages: [B_Master_Tile_C_14] 15
+[2019.08.03-09.17.05:813][838]LogBlueprintUserMessages: [B_Master_Tile_C_15] 16
+[2019.08.03-09.17.06:515][880]LogBlueprintUserMessages: [B_Master_Tile_C_16] 17
+[2019.08.03-09.17.07:229][923]LogBlueprintUserMessages: [B_Master_Tile_C_17] 18
+[2019.08.03-09.17.07:930][965]LogBlueprintUserMessages: [B_Master_Tile_C_18] 19
+[2019.08.03-09.17.08:613][  6]LogBlueprintUserMessages: [B_Master_Tile_C_19] 20
+[2019.08.03-09.17.09:296][ 47]LogBlueprintUserMessages: [B_Master_Tile_C_20] 21
+[2019.08.03-09.17.09:962][ 87]LogBlueprintUserMessages: [B_Master_Tile_C_21] 22
+[2019.08.03-09.17.10:648][128]LogBlueprintUserMessages: [B_Master_Tile_C_22] 23
+[2019.08.03-09.17.13:697][311]LogBlueprintUserMessages: [B_Master_Tile_C_23] 24
+[2019.08.03-09.17.14:396][353]LogBlueprintUserMessages: [B_Master_Tile_C_24] 25
+[2019.08.03-09.17.15:047][392]LogBlueprintUserMessages: [B_Master_Tile_C_25] 26
+[2019.08.03-09.17.15:181][400]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.17.15:182][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-09.17.15:230][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-09.17.15:230][400]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.17.15:272][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-09.17.15:321][401]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.08.03-09.17.16:761][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.03-09.17.23:461][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.03-09.17.28:305][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.03-09.17.41:138][941]BlueprintLog: New page: Compile CoinBP
+[2019.08.03-09.17.41:915][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.03-09.17.41:954][963]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBPD985DAB9476916924B64D097F63885B2.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.03-09.17.43:357][ 46]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.03-09.17.43:378][ 46]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.17.43:378][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.03-09.17.43:379][ 46]PIE: New page: PIE session: Level1 (Aug 3, 2019, 8:17:43 PM)
+[2019.08.03-09.17.43:379][ 46]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.03-09.17.43:381][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002604s)
+[2019.08.03-09.17.43:382][ 46]LogAIModule: Creating AISystem for world Level1
+[2019.08.03-09.17.43:382][ 46]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2019.08.03-09.17.43:382][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.003565s)
+[2019.08.03-09.17.43:422][ 46]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.03-09.17.43:441][ 46]LogInit: FAudioDevice initialized.
+[2019.08.03-09.17.43:475][ 46]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.03-09.17.43:476][ 46]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.03-14.47.43
+[2019.08.03-09.17.43:476][ 46]LogWorld: Bringing up level for play took: 0.000706
+[2019.08.03-09.17.43:497][ 46]PIE: Play in editor start time for /Game/Runner/Levels/UEDPIE_0_Level1 -0.73
+[2019.08.03-09.17.43:497][ 46]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.17.50:688][474]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.17.50:689][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-09.17.50:726][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-09.17.50:726][474]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.17.50:764][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-09.17.50:799][476]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.08.03-09.18.05:810][366]BlueprintLog: New page: Compile CoinBP
+[2019.08.03-09.18.06:439][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.03-09.18.06:474][384]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBPA50A78C9445725270D862A8C18197BCC.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.03-09.18.09:285][552]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.03-09.18.09:309][552]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.18.09:309][552]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.03-09.18.09:309][552]PIE: New page: PIE session: Level1 (Aug 3, 2019, 8:18:09 PM)
+[2019.08.03-09.18.09:309][552]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.03-09.18.09:312][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002739s)
+[2019.08.03-09.18.09:312][552]LogAIModule: Creating AISystem for world Level1
+[2019.08.03-09.18.09:312][552]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2019.08.03-09.18.09:313][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.003545s)
+[2019.08.03-09.18.09:350][552]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.03-09.18.09:370][552]LogInit: FAudioDevice initialized.
+[2019.08.03-09.18.09:403][552]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.03-09.18.09:404][552]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.03-14.48.09
+[2019.08.03-09.18.09:404][552]LogWorld: Bringing up level for play took: 0.000479
+[2019.08.03-09.18.09:424][552]PIE: Play in editor start time for /Game/Runner/Levels/UEDPIE_0_Level1 -0.804
+[2019.08.03-09.18.09:424][552]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.18.15:023][885]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.18.15:023][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-09.18.15:064][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-09.18.15:064][885]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.18.15:100][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-09.18.15:154][886]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.08.03-09.18.16:233][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.03-09.18.20:094][173]BlueprintLog: New page: Compile CoinBP
+[2019.08.03-09.18.20:893][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.03-09.18.20:927][199]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBP5222926E43A299481F0237B7A4D5E8D5.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.03-09.18.22:300][281]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.03-09.18.22:318][281]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.18.22:319][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.03-09.18.22:319][281]PIE: New page: PIE session: Level1 (Aug 3, 2019, 8:18:22 PM)
+[2019.08.03-09.18.22:320][281]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.03-09.18.22:322][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002658s)
+[2019.08.03-09.18.22:323][281]LogAIModule: Creating AISystem for world Level1
+[2019.08.03-09.18.22:323][281]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2019.08.03-09.18.22:323][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.003727s)
+[2019.08.03-09.18.22:363][281]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.03-09.18.22:383][281]LogInit: FAudioDevice initialized.
+[2019.08.03-09.18.22:416][281]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.03-09.18.22:417][281]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.03-14.48.22
+[2019.08.03-09.18.22:418][281]LogWorld: Bringing up level for play took: 0.000814
+[2019.08.03-09.18.22:444][281]PIE: Play in editor start time for /Game/Runner/Levels/UEDPIE_0_Level1 0.217
+[2019.08.03-09.18.22:445][281]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.18.25:606][469]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.03-09.18.26:466][521]LogHttp: Warning: 000001FD498FE0C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.03-09.18.26:466][521]LogHttp: Warning: 000001FD498FE0C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.03-09.18.26:466][521]LogHttp: Warning: 000001FD498FE0C0: libcurl info message cache 1 (Closing connection 34)
+[2019.08.03-09.18.26:477][522]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E327357-44E3-5F20-D74A-6486B39A598D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.03-09.18.26:505][523]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.03-09.18.28:422][638]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.03-09.18.29:239][687]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.03-09.18.30:039][735]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.03-09.18.30:824][782]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.03-09.18.31:607][829]LogBlueprintUserMessages: [B_Master_Tile_C_6] 7
+[2019.08.03-09.18.32:390][876]LogBlueprintUserMessages: [B_Master_Tile_C_7] 8
+[2019.08.03-09.18.33:160][922]LogBlueprintUserMessages: [B_Master_Tile_C_8] 9
+[2019.08.03-09.18.33:923][968]LogBlueprintUserMessages: [B_Master_Tile_C_9] 10
+[2019.08.03-09.18.34:671][ 11]LogBlueprintUserMessages: [B_Master_Tile_C_10] 11
+[2019.08.03-09.18.35:422][ 56]LogBlueprintUserMessages: [B_Master_Tile_C_11] 12
+[2019.08.03-09.18.36:171][101]LogBlueprintUserMessages: [B_Master_Tile_C_12] 13
+[2019.08.03-09.18.36:890][144]LogBlueprintUserMessages: [B_Master_Tile_C_13] 14
+[2019.08.03-09.18.37:623][188]LogBlueprintUserMessages: [B_Master_Tile_C_14] 15
+[2019.08.03-09.18.38:339][231]LogBlueprintUserMessages: [B_Master_Tile_C_15] 16
+[2019.08.03-09.18.39:054][274]LogBlueprintUserMessages: [B_Master_Tile_C_16] 17
+[2019.08.03-09.18.39:755][316]LogBlueprintUserMessages: [B_Master_Tile_C_17] 18
+[2019.08.03-09.18.40:455][358]LogBlueprintUserMessages: [B_Master_Tile_C_18] 19
+[2019.08.03-09.18.41:138][399]LogBlueprintUserMessages: [B_Master_Tile_C_19] 20
+[2019.08.03-09.18.41:822][440]LogBlueprintUserMessages: [B_Master_Tile_C_20] 21
+[2019.08.03-09.18.41:972][449]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.18.41:972][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-09.18.42:015][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-09.18.42:015][449]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.18.42:054][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-09.18.42:103][450]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.08.03-09.19.22:414][648]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Runner/Levels/Level1' took 0.040
+[2019.08.03-09.19.22:417][648]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Runner/Audio/Star] ([1] browsable assets)...
+[2019.08.03-09.19.22:424][648]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Runner/Audio/Star.Star]
+[2019.08.03-09.19.22:424][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/Runner/Audio/Star]
+[2019.08.03-09.19.22:424][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Audio/Star" FILE="../../../../../../Users/prasanth/Desktop/Runner/Saved/Autosaves/Game/Runner/Audio/Star_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.08.03-09.19.22:437][648]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/Star_Auto3DA2946E04F139225D6F10D8DBF506BF4.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Saved/Autosaves/Game/Runner/Audio/Star_Auto3.uasset'
+[2019.08.03-09.19.22:439][648]LogFileHelpers: Auto-saving content packages took 0.023
+[2019.08.03-09.19.46:423][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.03-09.19.51:143][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.03-09.19.51:244][ 55]BlueprintLog: New page: Compile CoinBP
+[2019.08.03-09.19.52:337][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.03-09.19.52:392][ 94]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBPC7BAAD9D482CEFB02267B1BEBE357212.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.03-09.19.54:063][187]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.03-09.19.54:085][187]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.19.54:085][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.03-09.19.54:085][187]PIE: New page: PIE session: Level1 (Aug 3, 2019, 8:19:54 PM)
+[2019.08.03-09.19.54:086][187]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.03-09.19.54:088][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002720s)
+[2019.08.03-09.19.54:089][187]LogAIModule: Creating AISystem for world Level1
+[2019.08.03-09.19.54:090][187]LogPlayLevel: PIE: World Init took: (0.001273s)
+[2019.08.03-09.19.54:090][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.004304s)
+[2019.08.03-09.19.54:126][187]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.03-09.19.54:145][187]LogInit: FAudioDevice initialized.
+[2019.08.03-09.19.54:182][187]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.03-09.19.54:183][187]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.03-14.49.54
+[2019.08.03-09.19.54:184][187]LogWorld: Bringing up level for play took: 0.000715
+[2019.08.03-09.19.54:208][187]PIE: Play in editor start time for /Game/Runner/Levels/UEDPIE_0_Level1 -0.019
+[2019.08.03-09.19.54:208][187]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.19.54:676][213]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.03-09.19.55:513][263]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.03-09.19.59:944][529]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.03-09.20.00:744][577]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.03-09.20.01:544][625]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.03-09.20.02:345][673]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.03-09.20.03:127][720]LogBlueprintUserMessages: [B_Master_Tile_C_6] 7
+[2019.08.03-09.20.03:912][767]LogBlueprintUserMessages: [B_Master_Tile_C_7] 8
+[2019.08.03-09.20.04:678][813]LogBlueprintUserMessages: [B_Master_Tile_C_8] 9
+[2019.08.03-09.20.05:445][859]LogBlueprintUserMessages: [B_Master_Tile_C_9] 10
+[2019.08.03-09.20.06:195][904]LogBlueprintUserMessages: [B_Master_Tile_C_10] 11
+[2019.08.03-09.20.06:945][949]LogBlueprintUserMessages: [B_Master_Tile_C_11] 12
+[2019.08.03-09.20.07:678][993]LogBlueprintUserMessages: [B_Master_Tile_C_12] 13
+[2019.08.03-09.20.08:413][ 37]LogBlueprintUserMessages: [B_Master_Tile_C_13] 14
+[2019.08.03-09.20.09:129][ 80]LogBlueprintUserMessages: [B_Master_Tile_C_14] 15
+[2019.08.03-09.20.09:846][123]LogBlueprintUserMessages: [B_Master_Tile_C_15] 16
+[2019.08.03-09.20.10:564][166]LogBlueprintUserMessages: [B_Master_Tile_C_16] 17
+[2019.08.03-09.20.11:266][208]LogBlueprintUserMessages: [B_Master_Tile_C_17] 18
+[2019.08.03-09.20.11:966][250]LogBlueprintUserMessages: [B_Master_Tile_C_18] 19
+[2019.08.03-09.20.12:648][291]LogBlueprintUserMessages: [B_Master_Tile_C_19] 20
+[2019.08.03-09.20.13:332][332]LogBlueprintUserMessages: [B_Master_Tile_C_20] 21
+[2019.08.03-09.20.14:016][373]LogBlueprintUserMessages: [B_Master_Tile_C_21] 22
+[2019.08.03-09.20.14:682][413]LogBlueprintUserMessages: [B_Master_Tile_C_22] 23
+[2019.08.03-09.20.15:349][453]LogBlueprintUserMessages: [B_Master_Tile_C_23] 24
+[2019.08.03-09.20.15:999][492]LogBlueprintUserMessages: [B_Master_Tile_C_24] 25
+[2019.08.03-09.20.16:652][531]LogBlueprintUserMessages: [B_Master_Tile_C_25] 26
+[2019.08.03-09.20.17:285][569]LogBlueprintUserMessages: [B_Master_Tile_C_26] 27
+[2019.08.03-09.20.17:918][607]LogBlueprintUserMessages: [B_Master_Tile_C_27] 28
+[2019.08.03-09.20.18:551][645]LogBlueprintUserMessages: [B_Master_Tile_C_28] 29
+[2019.08.03-09.20.19:185][683]LogBlueprintUserMessages: [B_Master_Tile_C_29] 30
+[2019.08.03-09.20.20:335][752]LogBlueprintUserMessages: [B_Master_Tile_C_30] 31
+[2019.08.03-09.20.20:954][789]LogBlueprintUserMessages: [B_Master_Tile_C_31] 32
+[2019.08.03-09.20.21:553][825]LogBlueprintUserMessages: [B_Master_Tile_C_32] 33
+[2019.08.03-09.20.22:153][861]LogBlueprintUserMessages: [B_Master_Tile_C_33] 34
+[2019.08.03-09.20.22:753][897]LogBlueprintUserMessages: [B_Master_Tile_C_34] 35
+[2019.08.03-09.20.23:336][932]LogBlueprintUserMessages: [B_Master_Tile_C_35] 36
+[2019.08.03-09.20.23:922][967]LogBlueprintUserMessages: [B_Master_Tile_C_36] 37
+[2019.08.03-09.20.24:503][  2]LogBlueprintUserMessages: [B_Master_Tile_C_37] 38
+[2019.08.03-09.20.25:070][ 36]LogBlueprintUserMessages: [B_Master_Tile_C_38] 39
+[2019.08.03-09.20.25:637][ 70]LogBlueprintUserMessages: [B_Master_Tile_C_39] 40
+[2019.08.03-09.20.26:203][104]LogBlueprintUserMessages: [B_Master_Tile_C_40] 41
+[2019.08.03-09.20.26:512][123]LogHttp: Warning: 000001FD498FDF80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.03-09.20.26:512][123]LogHttp: Warning: 000001FD498FDF80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.03-09.20.26:512][123]LogHttp: Warning: 000001FD498FDF80: libcurl info message cache 1 (Closing connection 35)
+[2019.08.03-09.20.26:526][124]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E327357-44E3-5F20-D74A-6486B39A598D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.03-09.20.26:754][137]LogBlueprintUserMessages: [B_Master_Tile_C_41] 42
+[2019.08.03-09.20.27:303][170]LogBlueprintUserMessages: [B_Master_Tile_C_42] 43
+[2019.08.03-09.20.27:836][202]LogBlueprintUserMessages: [B_Master_Tile_C_43] 44
+[2019.08.03-09.20.28:387][235]LogBlueprintUserMessages: [B_Master_Tile_C_44] 45
+[2019.08.03-09.20.28:921][267]LogBlueprintUserMessages: [B_Master_Tile_C_45] 46
+[2019.08.03-09.20.29:437][298]LogBlueprintUserMessages: [B_Master_Tile_C_46] 47
+[2019.08.03-09.20.29:970][330]LogBlueprintUserMessages: [B_Master_Tile_C_47] 48
+[2019.08.03-09.20.30:487][361]LogBlueprintUserMessages: [B_Master_Tile_C_48] 49
+[2019.08.03-09.20.30:987][391]LogBlueprintUserMessages: [B_Master_Tile_C_49] 50
+[2019.08.03-09.20.31:504][422]LogBlueprintUserMessages: [B_Master_Tile_C_50] 51
+[2019.08.03-09.20.32:004][452]LogBlueprintUserMessages: [B_Master_Tile_C_51] 52
+[2019.08.03-09.20.32:504][482]LogBlueprintUserMessages: [B_Master_Tile_C_52] 53
+[2019.08.03-09.20.32:987][511]LogBlueprintUserMessages: [B_Master_Tile_C_53] 54
+[2019.08.03-09.20.33:471][540]LogBlueprintUserMessages: [B_Master_Tile_C_54] 55
+[2019.08.03-09.20.33:954][569]LogBlueprintUserMessages: [B_Master_Tile_C_55] 56
+[2019.08.03-09.20.34:437][598]LogBlueprintUserMessages: [B_Master_Tile_C_56] 57
+[2019.08.03-09.20.34:904][626]LogBlueprintUserMessages: [B_Master_Tile_C_57] 58
+[2019.08.03-09.20.35:372][654]LogBlueprintUserMessages: [B_Master_Tile_C_58] 59
+[2019.08.03-09.20.35:839][682]LogBlueprintUserMessages: [B_Master_Tile_C_59] 60
+[2019.08.03-09.20.36:305][710]LogBlueprintUserMessages: [B_Master_Tile_C_60] 61
+[2019.08.03-09.20.36:755][737]LogBlueprintUserMessages: [B_Master_Tile_C_61] 62
+[2019.08.03-09.20.37:207][764]LogBlueprintUserMessages: [B_Master_Tile_C_62] 63
+[2019.08.03-09.20.37:654][791]LogBlueprintUserMessages: [B_Master_Tile_C_63] 64
+[2019.08.03-09.20.38:088][817]LogBlueprintUserMessages: [B_Master_Tile_C_64] 65
+[2019.08.03-09.20.38:521][843]LogBlueprintUserMessages: [B_Master_Tile_C_65] 66
+[2019.08.03-09.20.38:955][869]LogBlueprintUserMessages: [B_Master_Tile_C_66] 67
+[2019.08.03-09.20.39:389][895]LogBlueprintUserMessages: [B_Master_Tile_C_67] 68
+[2019.08.03-09.20.39:805][920]LogBlueprintUserMessages: [B_Master_Tile_C_68] 69
+[2019.08.03-09.20.40:222][945]LogBlueprintUserMessages: [B_Master_Tile_C_69] 70
+[2019.08.03-09.20.40:639][970]LogBlueprintUserMessages: [B_Master_Tile_C_70] 71
+[2019.08.03-09.20.41:055][995]LogBlueprintUserMessages: [B_Master_Tile_C_71] 72
+[2019.08.03-09.20.41:472][ 20]LogBlueprintUserMessages: [B_Master_Tile_C_72] 73
+[2019.08.03-09.20.41:872][ 44]LogBlueprintUserMessages: [B_Master_Tile_C_73] 74
+[2019.08.03-09.20.42:272][ 68]LogBlueprintUserMessages: [B_Master_Tile_C_74] 75
+[2019.08.03-09.20.42:656][ 91]LogBlueprintUserMessages: [B_Master_Tile_C_75] 76
+[2019.08.03-09.20.43:705][154]LogBlueprintUserMessages: [B_Master_Tile_C_76] 77
+[2019.08.03-09.20.44:089][177]LogBlueprintUserMessages: [B_Master_Tile_C_77] 78
+[2019.08.03-09.20.44:472][200]LogBlueprintUserMessages: [B_Master_Tile_C_78] 79
+[2019.08.03-09.20.44:856][223]LogBlueprintUserMessages: [B_Master_Tile_C_79] 80
+[2019.08.03-09.20.45:239][246]LogBlueprintUserMessages: [B_Master_Tile_C_80] 81
+[2019.08.03-09.20.45:605][268]LogBlueprintUserMessages: [B_Master_Tile_C_81] 82
+[2019.08.03-09.20.45:973][290]LogBlueprintUserMessages: [B_Master_Tile_C_82] 83
+[2019.08.03-09.20.46:340][312]LogBlueprintUserMessages: [B_Master_Tile_C_83] 84
+[2019.08.03-09.20.46:705][334]LogBlueprintUserMessages: [B_Master_Tile_C_84] 85
+[2019.08.03-09.20.47:055][355]LogBlueprintUserMessages: [B_Master_Tile_C_85] 86
+[2019.08.03-09.20.47:405][376]LogBlueprintUserMessages: [B_Master_Tile_C_86] 87
+[2019.08.03-09.20.47:763][395]LogBlueprintUserMessages: [B_Master_Tile_C_87] 88
+[2019.08.03-09.20.48:115][416]LogBlueprintUserMessages: [B_Master_Tile_C_88] 89
+[2019.08.03-09.20.48:445][436]LogBlueprintUserMessages: [B_Master_Tile_C_89] 90
+[2019.08.03-09.20.48:795][457]LogBlueprintUserMessages: [B_Master_Tile_C_90] 91
+[2019.08.03-09.20.49:128][477]LogBlueprintUserMessages: [B_Master_Tile_C_91] 92
+[2019.08.03-09.20.49:464][497]LogBlueprintUserMessages: [B_Master_Tile_C_92] 93
+[2019.08.03-09.20.49:795][517]LogBlueprintUserMessages: [B_Master_Tile_C_93] 94
+[2019.08.03-09.20.50:129][537]LogBlueprintUserMessages: [B_Master_Tile_C_94] 95
+[2019.08.03-09.20.50:463][557]LogBlueprintUserMessages: [B_Master_Tile_C_95] 96
+[2019.08.03-09.20.50:796][577]LogBlueprintUserMessages: [B_Master_Tile_C_96] 97
+[2019.08.03-09.20.51:129][597]LogBlueprintUserMessages: [B_Master_Tile_C_97] 98
+[2019.08.03-09.20.51:464][617]LogBlueprintUserMessages: [B_Master_Tile_C_98] 99
+[2019.08.03-09.20.51:795][637]LogBlueprintUserMessages: [B_Master_Tile_C_99] 100
+[2019.08.03-09.20.52:130][657]LogBlueprintUserMessages: [B_Master_Tile_C_100] 101
+[2019.08.03-09.20.52:463][677]LogBlueprintUserMessages: [B_Master_Tile_C_101] 102
+[2019.08.03-09.20.52:795][697]LogBlueprintUserMessages: [B_Master_Tile_C_102] 103
+[2019.08.03-09.20.53:128][717]LogBlueprintUserMessages: [B_Master_Tile_C_103] 104
+[2019.08.03-09.20.53:462][737]LogBlueprintUserMessages: [B_Master_Tile_C_104] 105
+[2019.08.03-09.20.53:790][755]LogBlueprintUserMessages: [B_Master_Tile_C_105] 106
+[2019.08.03-09.20.54:124][775]LogBlueprintUserMessages: [B_Master_Tile_C_106] 107
+[2019.08.03-09.20.54:462][795]LogBlueprintUserMessages: [B_Master_Tile_C_107] 108
+[2019.08.03-09.20.54:800][815]LogBlueprintUserMessages: [B_Master_Tile_C_108] 109
+[2019.08.03-09.20.55:134][835]LogBlueprintUserMessages: [B_Master_Tile_C_109] 110
+[2019.08.03-09.20.55:469][855]LogBlueprintUserMessages: [B_Master_Tile_C_110] 111
+[2019.08.03-09.20.55:798][874]LogBlueprintUserMessages: [B_Master_Tile_C_111] 112
+[2019.08.03-09.20.56:132][894]LogBlueprintUserMessages: [B_Master_Tile_C_112] 113
+[2019.08.03-09.20.56:465][914]LogBlueprintUserMessages: [B_Master_Tile_C_113] 114
+[2019.08.03-09.20.56:799][934]LogBlueprintUserMessages: [B_Master_Tile_C_114] 115
+[2019.08.03-09.20.57:135][954]LogBlueprintUserMessages: [B_Master_Tile_C_115] 116
+[2019.08.03-09.20.57:466][974]LogBlueprintUserMessages: [B_Master_Tile_C_116] 117
+[2019.08.03-09.20.57:801][994]LogBlueprintUserMessages: [B_Master_Tile_C_117] 118
+[2019.08.03-09.20.58:133][ 14]LogBlueprintUserMessages: [B_Master_Tile_C_118] 119
+[2019.08.03-09.20.58:467][ 34]LogBlueprintUserMessages: [B_Master_Tile_C_119] 120
+[2019.08.03-09.20.58:800][ 54]LogBlueprintUserMessages: [B_Master_Tile_C_120] 121
+[2019.08.03-09.20.59:134][ 74]LogBlueprintUserMessages: [B_Master_Tile_C_121] 122
+[2019.08.03-09.20.59:467][ 94]LogBlueprintUserMessages: [B_Master_Tile_C_122] 123
+[2019.08.03-09.20.59:787][113]LogBlueprintUserMessages: [B_Master_Tile_C_123] 124
+[2019.08.03-09.21.00:122][133]LogBlueprintUserMessages: [B_Master_Tile_C_124] 125
+[2019.08.03-09.21.00:456][153]LogBlueprintUserMessages: [B_Master_Tile_C_125] 126
+[2019.08.03-09.21.00:789][173]LogBlueprintUserMessages: [B_Master_Tile_C_126] 127
+[2019.08.03-09.21.01:122][193]LogBlueprintUserMessages: [B_Master_Tile_C_127] 128
+[2019.08.03-09.21.01:455][213]LogBlueprintUserMessages: [B_Master_Tile_C_128] 129
+[2019.08.03-09.21.01:790][233]LogBlueprintUserMessages: [B_Master_Tile_C_129] 130
+[2019.08.03-09.21.02:123][253]LogBlueprintUserMessages: [B_Master_Tile_C_130] 131
+[2019.08.03-09.21.02:455][273]LogBlueprintUserMessages: [B_Master_Tile_C_131] 132
+[2019.08.03-09.21.02:789][293]LogBlueprintUserMessages: [B_Master_Tile_C_132] 133
+[2019.08.03-09.21.03:123][313]LogBlueprintUserMessages: [B_Master_Tile_C_133] 134
+[2019.08.03-09.21.03:457][333]LogBlueprintUserMessages: [B_Master_Tile_C_134] 135
+[2019.08.03-09.21.03:790][353]LogBlueprintUserMessages: [B_Master_Tile_C_135] 136
+[2019.08.03-09.21.04:123][373]LogBlueprintUserMessages: [B_Master_Tile_C_136] 137
+[2019.08.03-09.21.04:456][393]LogBlueprintUserMessages: [B_Master_Tile_C_137] 138
+[2019.08.03-09.21.04:789][413]LogBlueprintUserMessages: [B_Master_Tile_C_138] 139
+[2019.08.03-09.21.05:122][433]LogBlueprintUserMessages: [B_Master_Tile_C_139] 140
+[2019.08.03-09.21.05:457][453]LogBlueprintUserMessages: [B_Master_Tile_C_140] 141
+[2019.08.03-09.21.05:789][473]LogBlueprintUserMessages: [B_Master_Tile_C_141] 142
+[2019.08.03-09.21.06:123][493]LogBlueprintUserMessages: [B_Master_Tile_C_142] 143
+[2019.08.03-09.21.06:459][513]LogBlueprintUserMessages: [B_Master_Tile_C_143] 144
+[2019.08.03-09.21.06:792][533]LogBlueprintUserMessages: [B_Master_Tile_C_144] 145
+[2019.08.03-09.21.07:125][553]LogBlueprintUserMessages: [B_Master_Tile_C_145] 146
+[2019.08.03-09.21.07:458][573]LogBlueprintUserMessages: [B_Master_Tile_C_146] 147
+[2019.08.03-09.21.07:792][593]LogBlueprintUserMessages: [B_Master_Tile_C_147] 148
+[2019.08.03-09.21.08:125][613]LogBlueprintUserMessages: [B_Master_Tile_C_148] 149
+[2019.08.03-09.21.08:458][633]LogBlueprintUserMessages: [B_Master_Tile_C_149] 150
+[2019.08.03-09.21.08:742][650]LogBlueprintUserMessages: [B_Master_Tile_C_150] 151
+[2019.08.03-09.21.09:075][670]LogBlueprintUserMessages: [B_Master_Tile_C_151] 152
+[2019.08.03-09.21.09:408][690]LogBlueprintUserMessages: [B_Master_Tile_C_152] 153
+[2019.08.03-09.21.09:743][710]LogBlueprintUserMessages: [B_Master_Tile_C_153] 154
+[2019.08.03-09.21.10:075][730]LogBlueprintUserMessages: [B_Master_Tile_C_154] 155
+[2019.08.03-09.21.10:408][750]LogBlueprintUserMessages: [B_Master_Tile_C_155] 156
+[2019.08.03-09.21.10:743][770]LogBlueprintUserMessages: [B_Master_Tile_C_156] 157
+[2019.08.03-09.21.11:075][790]LogBlueprintUserMessages: [B_Master_Tile_C_157] 158
+[2019.08.03-09.21.11:409][810]LogBlueprintUserMessages: [B_Master_Tile_C_158] 159
+[2019.08.03-09.21.11:744][830]LogBlueprintUserMessages: [B_Master_Tile_C_159] 160
+[2019.08.03-09.21.12:076][850]LogBlueprintUserMessages: [B_Master_Tile_C_160] 161
+[2019.08.03-09.21.12:411][870]LogBlueprintUserMessages: [B_Master_Tile_C_161] 162
+[2019.08.03-09.21.17:926][201]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.21.17:927][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-09.21.17:969][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-09.21.17:970][201]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.21.18:013][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-09.21.18:061][202]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.08.03-09.22.27:108][574]LogHttp: Warning: 000001FD89995300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.03-09.22.27:108][574]LogHttp: Warning: 000001FD89995300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.03-09.22.27:108][574]LogHttp: Warning: 000001FD89995300: libcurl info message cache 1 (Closing connection 36)
+[2019.08.03-09.22.27:108][574]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E327357-44E3-5F20-D74A-6486B39A598D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.03-09.23.22:962][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.03-09.23.26:014][ 36]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Runner/Blue_Prints/RunnerHUD.RunnerHUD
+[2019.08.03-09.24.27:169][594]LogHttp: Warning: 000001FDCBF89A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.03-09.24.27:169][594]LogHttp: Warning: 000001FDCBF89A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.03-09.24.27:169][594]LogHttp: Warning: 000001FDCBF89A80: libcurl info message cache 1 (Closing connection 37)
+[2019.08.03-09.24.27:169][594]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E327357-44E3-5F20-D74A-6486B39A598D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.03-09.25.05:852][896]BlueprintLog: New page: Compile RunnerHUD
+[2019.08.03-09.25.06:607][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/RunnerHUD" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/RunnerHUD.uasset" SILENT=true
+[2019.08.03-09.25.06:647][933]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/RunnerHUDBBCB4A8B4A8B1E3836F66E80D82F6D90.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/RunnerHUD.uasset'
+[2019.08.03-09.25.08:897][ 66]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.03-09.25.08:917][ 66]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.25.08:918][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.03-09.25.08:918][ 66]PIE: New page: PIE session: Level1 (Aug 3, 2019, 8:25:08 PM)
+[2019.08.03-09.25.08:918][ 66]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.03-09.25.08:922][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003572s)
+[2019.08.03-09.25.08:923][ 66]LogAIModule: Creating AISystem for world Level1
+[2019.08.03-09.25.08:923][ 66]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2019.08.03-09.25.08:923][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.004994s)
+[2019.08.03-09.25.08:962][ 66]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.03-09.25.08:981][ 66]LogInit: FAudioDevice initialized.
+[2019.08.03-09.25.09:020][ 66]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.03-09.25.09:021][ 66]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.03-14.55.09
+[2019.08.03-09.25.09:021][ 66]LogWorld: Bringing up level for play took: 0.000796
+[2019.08.03-09.25.09:045][ 66]PIE: Play in editor start time for /Game/Runner/Levels/UEDPIE_0_Level1 0.818
+[2019.08.03-09.25.09:046][ 66]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.25.13:301][319]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.03-09.25.14:135][369]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.03-09.25.14:951][418]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.03-09.25.15:755][466]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.03-09.25.16:555][514]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.03-09.25.17:354][562]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.03-09.25.18:138][609]LogBlueprintUserMessages: [B_Master_Tile_C_6] 7
+[2019.08.03-09.25.18:906][655]LogBlueprintUserMessages: [B_Master_Tile_C_7] 8
+[2019.08.03-09.25.19:673][701]LogBlueprintUserMessages: [B_Master_Tile_C_8] 9
+[2019.08.03-09.25.20:440][747]LogBlueprintUserMessages: [B_Master_Tile_C_9] 10
+[2019.08.03-09.25.21:191][792]LogBlueprintUserMessages: [B_Master_Tile_C_10] 11
+[2019.08.03-09.25.21:941][837]LogBlueprintUserMessages: [B_Master_Tile_C_11] 12
+[2019.08.03-09.25.22:690][882]LogBlueprintUserMessages: [B_Master_Tile_C_12] 13
+[2019.08.03-09.25.23:407][925]LogBlueprintUserMessages: [B_Master_Tile_C_13] 14
+[2019.08.03-09.25.24:140][969]LogBlueprintUserMessages: [B_Master_Tile_C_14] 15
+[2019.08.03-09.25.24:857][ 12]LogBlueprintUserMessages: [B_Master_Tile_C_15] 16
+[2019.08.03-09.25.25:573][ 55]LogBlueprintUserMessages: [B_Master_Tile_C_16] 17
+[2019.08.03-09.25.26:273][ 97]LogBlueprintUserMessages: [B_Master_Tile_C_17] 18
+[2019.08.03-09.25.26:974][139]LogBlueprintUserMessages: [B_Master_Tile_C_18] 19
+[2019.08.03-09.25.27:658][180]LogBlueprintUserMessages: [B_Master_Tile_C_19] 20
+[2019.08.03-09.25.28:342][221]LogBlueprintUserMessages: [B_Master_Tile_C_20] 21
+[2019.08.03-09.25.29:024][262]LogBlueprintUserMessages: [B_Master_Tile_C_21] 22
+[2019.08.03-09.25.29:691][302]LogBlueprintUserMessages: [B_Master_Tile_C_22] 23
+[2019.08.03-09.25.32:175][451]LogBlueprintUserMessages: [B_Master_Tile_C_23] 24
+[2019.08.03-09.25.32:824][490]LogBlueprintUserMessages: [B_Master_Tile_C_24] 25
+[2019.08.03-09.25.33:474][529]LogBlueprintUserMessages: [B_Master_Tile_C_25] 26
+[2019.08.03-09.25.33:762][546]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.25.33:763][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-09.25.33:807][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-09.25.33:807][546]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.25.33:852][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-09.25.33:905][547]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.08.03-09.25.35:139][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.03-09.26.22:588][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Audio/Star" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Audio/Star.uasset" SILENT=true
+[2019.08.03-09.26.22:597][105]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/StarA65FC674414F2894F4C5358B744D10AD.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Audio/Star.uasset'
+[2019.08.03-09.26.26:461][323]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.03-09.26.26:496][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.26.26:496][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.03-09.26.26:496][323]PIE: New page: PIE session: Level1 (Aug 3, 2019, 8:26:26 PM)
+[2019.08.03-09.26.26:497][323]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.03-09.26.26:504][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007442s)
+[2019.08.03-09.26.26:505][323]LogAIModule: Creating AISystem for world Level1
+[2019.08.03-09.26.26:505][323]LogPlayLevel: PIE: World Init took: (0.000970s)
+[2019.08.03-09.26.26:505][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.008637s)
+[2019.08.03-09.26.26:541][323]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.03-09.26.26:565][323]LogInit: FAudioDevice initialized.
+[2019.08.03-09.26.26:600][323]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.03-09.26.26:602][323]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.03-14.56.26
+[2019.08.03-09.26.26:603][323]LogWorld: Bringing up level for play took: 0.001307
+[2019.08.03-09.26.26:623][323]PIE: Play in editor start time for /Game/Runner/Levels/UEDPIE_0_Level1 0.396
+[2019.08.03-09.26.26:623][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.26.27:076][348]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.03-09.26.27:218][357]LogHttp: Warning: 000001FD62E37D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.03-09.26.27:218][357]LogHttp: Warning: 000001FD62E37D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.03-09.26.27:219][357]LogHttp: Warning: 000001FD62E37D80: libcurl info message cache 1 (Closing connection 38)
+[2019.08.03-09.26.27:231][358]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E327357-44E3-5F20-D74A-6486B39A598D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.03-09.26.27:908][398]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.03-09.26.28:725][447]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.03-09.26.32:359][665]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.03-09.26.33:166][712]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.03-09.26.33:969][760]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.03-09.26.34:751][807]LogBlueprintUserMessages: [B_Master_Tile_C_6] 7
+[2019.08.03-09.26.35:518][853]LogBlueprintUserMessages: [B_Master_Tile_C_7] 8
+[2019.08.03-09.26.36:300][900]LogBlueprintUserMessages: [B_Master_Tile_C_8] 9
+[2019.08.03-09.26.37:050][945]LogBlueprintUserMessages: [B_Master_Tile_C_9] 10
+[2019.08.03-09.26.37:816][991]LogBlueprintUserMessages: [B_Master_Tile_C_10] 11
+[2019.08.03-09.26.38:550][ 35]LogBlueprintUserMessages: [B_Master_Tile_C_11] 12
+[2019.08.03-09.26.39:300][ 80]LogBlueprintUserMessages: [B_Master_Tile_C_12] 13
+[2019.08.03-09.26.40:035][124]LogBlueprintUserMessages: [B_Master_Tile_C_13] 14
+[2019.08.03-09.26.40:750][167]LogBlueprintUserMessages: [B_Master_Tile_C_14] 15
+[2019.08.03-09.26.41:467][210]LogBlueprintUserMessages: [B_Master_Tile_C_15] 16
+[2019.08.03-09.26.42:184][253]LogBlueprintUserMessages: [B_Master_Tile_C_16] 17
+[2019.08.03-09.26.42:884][295]LogBlueprintUserMessages: [B_Master_Tile_C_17] 18
+[2019.08.03-09.26.43:584][337]LogBlueprintUserMessages: [B_Master_Tile_C_18] 19
+[2019.08.03-09.26.44:267][378]LogBlueprintUserMessages: [B_Master_Tile_C_19] 20
+[2019.08.03-09.26.44:950][419]LogBlueprintUserMessages: [B_Master_Tile_C_20] 21
+[2019.08.03-09.26.45:633][460]LogBlueprintUserMessages: [B_Master_Tile_C_21] 22
+[2019.08.03-09.26.46:301][500]LogBlueprintUserMessages: [B_Master_Tile_C_22] 23
+[2019.08.03-09.26.46:968][540]LogBlueprintUserMessages: [B_Master_Tile_C_23] 24
+[2019.08.03-09.26.47:618][579]LogBlueprintUserMessages: [B_Master_Tile_C_24] 25
+[2019.08.03-09.26.48:267][618]LogBlueprintUserMessages: [B_Master_Tile_C_25] 26
+[2019.08.03-09.26.48:917][657]LogBlueprintUserMessages: [B_Master_Tile_C_26] 27
+[2019.08.03-09.26.49:554][695]LogBlueprintUserMessages: [B_Master_Tile_C_27] 28
+[2019.08.03-09.26.50:175][732]LogBlueprintUserMessages: [B_Master_Tile_C_28] 29
+[2019.08.03-09.26.50:809][770]LogBlueprintUserMessages: [B_Master_Tile_C_29] 30
+[2019.08.03-09.26.51:425][807]LogBlueprintUserMessages: [B_Master_Tile_C_30] 31
+[2019.08.03-09.26.52:042][844]LogBlueprintUserMessages: [B_Master_Tile_C_31] 32
+[2019.08.03-09.26.52:643][880]LogBlueprintUserMessages: [B_Master_Tile_C_32] 33
+[2019.08.03-09.26.53:242][916]LogBlueprintUserMessages: [B_Master_Tile_C_33] 34
+[2019.08.03-09.26.53:842][952]LogBlueprintUserMessages: [B_Master_Tile_C_34] 35
+[2019.08.03-09.26.54:426][987]LogBlueprintUserMessages: [B_Master_Tile_C_35] 36
+[2019.08.03-09.26.55:008][ 22]LogBlueprintUserMessages: [B_Master_Tile_C_36] 37
+[2019.08.03-09.26.55:592][ 57]LogBlueprintUserMessages: [B_Master_Tile_C_37] 38
+[2019.08.03-09.26.56:158][ 91]LogBlueprintUserMessages: [B_Master_Tile_C_38] 39
+[2019.08.03-09.26.56:725][125]LogBlueprintUserMessages: [B_Master_Tile_C_39] 40
+[2019.08.03-09.26.58:226][215]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.26.58:229][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-09.26.58:270][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-09.26.58:270][215]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.03-09.26.58:306][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-09.26.58:352][216]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.08.03-09.27.01:626][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
