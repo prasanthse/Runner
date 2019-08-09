@@ -839,3 +839,1517 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.09-11.52.41:845][575]LogHttp: Warning: 00000233B3C08400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
 [2019.08.09-11.52.41:846][575]LogHttp: Warning: 00000233B3C08400: libcurl info message cache 1 (Closing connection 8)
 [2019.08.09-11.52.41:862][576]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-11.53.51:019][712]BlueprintLog: New page: Compile MagnetBP
+[2019.08.09-11.53.51:843][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/MagnetBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/MagnetBP.uasset" SILENT=true
+[2019.08.09-11.53.51:907][741]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/MagnetBPE0248D154CD3B000DA36D2A99CC8A47E.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/MagnetBP.uasset'
+[2019.08.09-11.54.42:263][919]LogHttp: Warning: 00000234134B8540: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-11.54.42:263][919]LogHttp: Warning: 00000234134B8540: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-11.54.42:263][919]LogHttp: Warning: 00000234134B8540: libcurl info message cache 1 (Closing connection 9)
+[2019.08.09-11.54.42:595][920]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-11.55.46:648][137]BlueprintLog: New page: Compile MagnetBP
+[2019.08.09-11.55.47:447][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/MagnetBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/MagnetBP.uasset" SILENT=true
+[2019.08.09-11.55.47:507][163]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/MagnetBP5228B3A44F614D7E65AC32ACB68D4474.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/MagnetBP.uasset'
+[2019.08.09-11.55.50:178][319]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.09-11.55.50:201][319]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-11.55.50:202][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.09-11.55.50:202][319]PIE: New page: PIE session: Level1 (Aug 9, 2019, 10:55:50 PM)
+[2019.08.09-11.55.50:202][319]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-11.55.50:206][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003563s)
+[2019.08.09-11.55.50:207][319]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-11.55.50:207][319]LogPlayLevel: PIE: World Init took: (0.001530s)
+[2019.08.09-11.55.50:207][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.005344s)
+[2019.08.09-11.55.50:246][319]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.09-11.55.50:266][319]LogInit: FAudioDevice initialized.
+[2019.08.09-11.55.50:299][319]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-11.55.50:299][319]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.25.50
+[2019.08.09-11.55.50:300][319]LogWorld: Bringing up level for play took: 0.000601
+[2019.08.09-11.55.50:331][319]PIE: Play in editor start time for /Game/Runner/Levels/UEDPIE_0_Level1 -0.475
+[2019.08.09-11.55.50:331][319]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-11.55.50:799][344]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-11.55.51:615][393]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-11.55.52:433][442]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-11.55.53:250][491]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.09-11.55.53:408][495]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-11.55.54:050][525]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.09-11.55.54:838][572]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.09-11.55.56:885][681]Cmd: restartlevel
+[2019.08.09-11.55.56:886][681]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-11.55.56:887][681]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-11.55.56:940][681]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-11.55.56:945][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004815s)
+[2019.08.09-11.55.56:947][681]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-11.55.56:947][681]LogPlayLevel: PIE: World Init took: (0.001765s)
+[2019.08.09-11.55.56:947][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.007010s)
+[2019.08.09-11.55.56:948][681]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-11.55.56:949][681]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.25.56
+[2019.08.09-11.55.56:950][681]LogWorld: Bringing up level for play took: 0.000910
+[2019.08.09-11.55.56:962][681]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-11.55.56:966][681]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-11.55.57:006][681]LogLoad: Took 0.118315 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-11.55.58:108][735]Cmd: restartlevel
+[2019.08.09-11.55.58:109][735]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-11.55.58:109][735]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-11.55.58:159][735]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-11.55.58:165][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006441s)
+[2019.08.09-11.55.58:166][735]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-11.55.58:166][735]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2019.08.09-11.55.58:166][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.007734s)
+[2019.08.09-11.55.58:166][735]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-11.55.58:167][735]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.25.58
+[2019.08.09-11.55.58:168][735]LogWorld: Bringing up level for play took: 0.000811
+[2019.08.09-11.55.58:201][735]LogLoad: Took 0.092210 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-11.55.58:877][768]Cmd: restartlevel
+[2019.08.09-11.55.58:878][768]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-11.55.58:879][768]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-11.55.58:938][768]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-11.55.58:944][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005618s)
+[2019.08.09-11.55.58:944][768]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-11.55.58:945][768]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2019.08.09-11.55.58:945][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.006976s)
+[2019.08.09-11.55.58:945][768]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-11.55.58:946][768]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.25.58
+[2019.08.09-11.55.58:947][768]LogWorld: Bringing up level for play took: 0.000864
+[2019.08.09-11.55.58:960][768]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-11.55.58:976][768]LogLoad: Took 0.096858 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-11.55.59:544][795]Cmd: restartlevel
+[2019.08.09-11.55.59:545][795]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-11.55.59:545][795]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-11.55.59:612][795]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-11.55.59:616][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004078s)
+[2019.08.09-11.55.59:616][795]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-11.55.59:617][795]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2019.08.09-11.55.59:617][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.005295s)
+[2019.08.09-11.55.59:617][795]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-11.55.59:619][795]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.25.59
+[2019.08.09-11.55.59:619][795]LogWorld: Bringing up level for play took: 0.001311
+[2019.08.09-11.55.59:628][795]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-11.55.59:631][795]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-11.55.59:654][795]LogLoad: Took 0.108678 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-11.56.00:175][819]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-11.56.00:325][826]LogBlueprintUserMessages: [MagnetBP_C_2] Magnet Active
+[2019.08.09-11.56.01:000][858]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-11.56.01:187][867]LogBlueprintUserMessages: [MagnetBP_C_3] Magnet Active
+[2019.08.09-11.56.01:188][867]LogBlueprintUserMessages: [MagnetBP_C_4] Magnet Active
+[2019.08.09-11.56.01:807][897]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-11.56.02:628][936]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.09-11.56.03:419][973]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.09-11.56.04:233][ 11]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.09-11.56.04:998][ 47]LogBlueprintUserMessages: [B_Master_Tile_C_6] 7
+[2019.08.09-11.56.05:780][ 83]LogBlueprintUserMessages: [B_Master_Tile_C_7] 8
+[2019.08.09-11.56.06:540][119]LogBlueprintUserMessages: [B_Master_Tile_C_8] 9
+[2019.08.09-11.56.07:319][157]LogBlueprintUserMessages: [B_Master_Tile_C_9] 10
+[2019.08.09-11.56.07:378][160]LogBlueprintUserMessages: [MagnetBP_C_5] Magnet Active
+[2019.08.09-11.56.08:068][192]LogBlueprintUserMessages: [B_Master_Tile_C_10] 11
+[2019.08.09-11.56.08:806][227]LogBlueprintUserMessages: [B_Master_Tile_C_11] 12
+[2019.08.09-11.56.08:893][231]LogBlueprintUserMessages: [MagnetBP_C_6] Magnet Active
+[2019.08.09-11.56.09:416][257]LogBlueprintUserMessages: [MagnetBP_C_7] Magnet Active
+[2019.08.09-11.56.09:556][263]LogBlueprintUserMessages: [B_Master_Tile_C_12] 13
+[2019.08.09-11.56.10:278][298]LogBlueprintUserMessages: [B_Master_Tile_C_13] 14
+[2019.08.09-11.56.10:335][301]LogBlueprintUserMessages: [MagnetBP_C_8] Magnet Active
+[2019.08.09-11.56.10:999][332]LogBlueprintUserMessages: [B_Master_Tile_C_14] 15
+[2019.08.09-11.56.11:720][366]LogBlueprintUserMessages: [B_Master_Tile_C_15] 16
+[2019.08.09-11.56.12:437][400]LogBlueprintUserMessages: [B_Master_Tile_C_16] 17
+[2019.08.09-11.56.12:569][406]LogBlueprintUserMessages: [MagnetBP_C_9] Magnet Active
+[2019.08.09-11.56.13:129][433]LogBlueprintUserMessages: [B_Master_Tile_C_17] 18
+[2019.08.09-11.56.13:844][466]LogBlueprintUserMessages: [B_Master_Tile_C_18] 19
+[2019.08.09-11.56.14:008][474]LogBlueprintUserMessages: [MagnetBP_C_10] Magnet Active
+[2019.08.09-11.56.14:529][499]LogBlueprintUserMessages: [B_Master_Tile_C_19] 20
+[2019.08.09-11.56.14:572][501]LogBlueprintUserMessages: [MagnetBP_C_11] Magnet Active
+[2019.08.09-11.56.14:651][505]LogBlueprintUserMessages: [MagnetBP_C_12] Magnet Active
+[2019.08.09-11.56.15:205][531]LogBlueprintUserMessages: [B_Master_Tile_C_20] 21
+[2019.08.09-11.56.15:352][538]LogBlueprintUserMessages: [MagnetBP_C_13] Magnet Active
+[2019.08.09-11.56.15:898][564]LogBlueprintUserMessages: [B_Master_Tile_C_21] 22
+[2019.08.09-11.56.16:548][595]LogBlueprintUserMessages: [B_Master_Tile_C_22] 23
+[2019.08.09-11.56.17:214][627]LogBlueprintUserMessages: [B_Master_Tile_C_23] 24
+[2019.08.09-11.56.17:889][659]LogBlueprintUserMessages: [B_Master_Tile_C_24] 25
+[2019.08.09-11.56.17:992][664]LogBlueprintUserMessages: [MagnetBP_C_14] Magnet Active
+[2019.08.09-11.56.18:523][688]LogBlueprintUserMessages: [B_Master_Tile_C_25] 26
+[2019.08.09-11.56.19:174][718]LogBlueprintUserMessages: [B_Master_Tile_C_26] 27
+[2019.08.09-11.56.19:203][719]LogBlueprintUserMessages: [MagnetBP_C_15] Magnet Active
+[2019.08.09-11.56.19:802][747]LogBlueprintUserMessages: [B_Master_Tile_C_27] 28
+[2019.08.09-11.56.20:440][778]LogBlueprintUserMessages: [B_Master_Tile_C_28] 29
+[2019.08.09-11.56.21:064][808]LogBlueprintUserMessages: [B_Master_Tile_C_29] 30
+[2019.08.09-11.56.21:087][809]LogBlueprintUserMessages: [MagnetBP_C_17] Magnet Active
+[2019.08.09-11.56.21:190][814]LogBlueprintUserMessages: [MagnetBP_C_16] Magnet Active
+[2019.08.09-11.56.21:682][837]LogBlueprintUserMessages: [B_Master_Tile_C_30] 31
+[2019.08.09-11.56.22:304][868]LogBlueprintUserMessages: [B_Master_Tile_C_31] 32
+[2019.08.09-11.56.22:902][896]LogBlueprintUserMessages: [B_Master_Tile_C_32] 33
+[2019.08.09-11.56.25:200][898]LogBlueprintUserMessages: [MagnetBP_C_18] Magnet Active
+[2019.08.09-11.56.30:983][900]LogBlueprintUserMessages: [B_Master_Tile_C_33] 34
+[2019.08.09-11.56.31:362][915]LogBlueprintUserMessages: [B_Master_Tile_C_34] 35
+[2019.08.09-11.56.33:461][ 18]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-11.56.33:461][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-11.56.33:508][ 18]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.09-11.56.33:509][ 18]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-11.56.33:559][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-11.56.33:633][ 19]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.08.09-11.56.42:933][159]LogHttp: Warning: 00000233B249D300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-11.56.42:933][159]LogHttp: Warning: 00000233B249D300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-11.56.42:933][159]LogHttp: Warning: 00000233B249D300: libcurl info message cache 1 (Closing connection 10)
+[2019.08.09-11.56.43:264][160]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-11.57.24:898][891]BlueprintLog: New page: Compile MagnetBP
+[2019.08.09-11.57.25:926][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/MagnetBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/MagnetBP.uasset" SILENT=true
+[2019.08.09-11.57.26:022][915]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/MagnetBP7295DA104B8768606E0BB781544BB6D7.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/MagnetBP.uasset'
+[2019.08.09-11.57.28:537][ 45]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.09-11.57.28:578][ 45]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-11.57.28:578][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.09-11.57.28:578][ 45]PIE: New page: PIE session: Level1 (Aug 9, 2019, 10:57:28 PM)
+[2019.08.09-11.57.28:578][ 45]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-11.57.28:583][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004899s)
+[2019.08.09-11.57.28:584][ 45]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-11.57.28:584][ 45]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2019.08.09-11.57.28:584][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.006285s)
+[2019.08.09-11.57.28:632][ 45]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.09-11.57.28:670][ 45]LogInit: FAudioDevice initialized.
+[2019.08.09-11.57.28:712][ 45]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-11.57.28:713][ 45]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.27.28
+[2019.08.09-11.57.28:713][ 45]LogWorld: Bringing up level for play took: 0.000841
+[2019.08.09-11.57.28:755][ 45]PIE: Play in editor start time for /Game/Runner/Levels/UEDPIE_0_Level1 -0.05
+[2019.08.09-11.57.28:755][ 45]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-11.57.30:151][111]Cmd: restartlevel
+[2019.08.09-11.57.30:153][111]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-11.57.30:154][111]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-11.57.30:214][111]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-11.57.30:219][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004582s)
+[2019.08.09-11.57.30:220][111]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-11.57.30:220][111]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2019.08.09-11.57.30:220][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.005821s)
+[2019.08.09-11.57.30:220][111]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-11.57.30:222][111]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.27.30
+[2019.08.09-11.57.30:223][111]LogWorld: Bringing up level for play took: 0.001930
+[2019.08.09-11.57.30:263][111]LogLoad: Took 0.108995 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-11.57.30:770][125]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-11.57.31:600][166]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-11.57.32:419][207]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-11.57.33:230][246]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.09-11.57.34:030][284]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.09-11.57.34:828][321]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.09-11.57.35:617][358]LogBlueprintUserMessages: [B_Master_Tile_C_6] 7
+[2019.08.09-11.57.36:382][394]LogBlueprintUserMessages: [B_Master_Tile_C_7] 8
+[2019.08.09-11.57.37:153][430]LogBlueprintUserMessages: [B_Master_Tile_C_8] 9
+[2019.08.09-11.57.37:917][467]LogBlueprintUserMessages: [B_Master_Tile_C_9] 10
+[2019.08.09-11.57.38:672][503]LogBlueprintUserMessages: [B_Master_Tile_C_10] 11
+[2019.08.09-11.57.39:409][538]LogBlueprintUserMessages: [B_Master_Tile_C_11] 12
+[2019.08.09-11.57.40:152][572]LogBlueprintUserMessages: [B_Master_Tile_C_12] 13
+[2019.08.09-11.57.40:904][606]LogBlueprintUserMessages: [B_Master_Tile_C_13] 14
+[2019.08.09-11.57.41:614][639]LogBlueprintUserMessages: [B_Master_Tile_C_14] 15
+[2019.08.09-11.57.42:325][672]LogBlueprintUserMessages: [B_Master_Tile_C_15] 16
+[2019.08.09-11.57.43:049][705]LogBlueprintUserMessages: [B_Master_Tile_C_16] 17
+[2019.08.09-11.57.43:756][735]LogBlueprintUserMessages: [B_Master_Tile_C_17] 18
+[2019.08.09-11.57.44:451][766]LogBlueprintUserMessages: [B_Master_Tile_C_18] 19
+[2019.08.09-11.57.45:134][798]LogBlueprintUserMessages: [B_Master_Tile_C_19] 20
+[2019.08.09-11.57.45:815][830]LogBlueprintUserMessages: [B_Master_Tile_C_20] 21
+[2019.08.09-11.57.46:489][861]LogBlueprintUserMessages: [B_Master_Tile_C_21] 22
+[2019.08.09-11.57.47:175][893]LogBlueprintUserMessages: [B_Master_Tile_C_22] 23
+[2019.08.09-11.57.47:818][921]LogBlueprintUserMessages: [B_Master_Tile_C_23] 24
+[2019.08.09-11.57.48:497][951]LogBlueprintUserMessages: [B_Master_Tile_C_24] 25
+[2019.08.09-11.57.49:124][979]LogBlueprintUserMessages: [B_Master_Tile_C_25] 26
+[2019.08.09-11.57.49:782][  9]LogBlueprintUserMessages: [B_Master_Tile_C_26] 27
+[2019.08.09-11.57.50:413][ 38]LogBlueprintUserMessages: [B_Master_Tile_C_27] 28
+[2019.08.09-11.57.51:053][ 68]LogBlueprintUserMessages: [B_Master_Tile_C_28] 29
+[2019.08.09-11.57.51:660][ 96]LogBlueprintUserMessages: [B_Master_Tile_C_29] 30
+[2019.08.09-11.57.52:288][125]LogBlueprintUserMessages: [B_Master_Tile_C_30] 31
+[2019.08.09-11.57.52:894][152]LogBlueprintUserMessages: [B_Master_Tile_C_31] 32
+[2019.08.09-11.57.53:519][181]LogBlueprintUserMessages: [B_Master_Tile_C_32] 33
+[2019.08.09-11.57.54:115][208]LogBlueprintUserMessages: [B_Master_Tile_C_33] 34
+[2019.08.09-11.57.54:712][235]LogBlueprintUserMessages: [B_Master_Tile_C_34] 35
+[2019.08.09-11.57.55:290][261]LogBlueprintUserMessages: [B_Master_Tile_C_35] 36
+[2019.08.09-11.57.55:876][287]LogBlueprintUserMessages: [B_Master_Tile_C_36] 37
+[2019.08.09-11.57.56:456][313]LogBlueprintUserMessages: [B_Master_Tile_C_37] 38
+[2019.08.09-11.57.57:016][339]LogBlueprintUserMessages: [B_Master_Tile_C_38] 39
+[2019.08.09-11.57.57:584][365]LogBlueprintUserMessages: [B_Master_Tile_C_39] 40
+[2019.08.09-11.57.58:149][390]LogBlueprintUserMessages: [B_Master_Tile_C_40] 41
+[2019.08.09-11.58.03:618][402]LogBlueprintUserMessages: [B_Master_Tile_C_41] 42
+[2019.08.09-11.58.04:065][418]LogBlueprintUserMessages: [B_Master_Tile_C_42] 43
+[2019.08.09-11.58.04:626][442]LogBlueprintUserMessages: [B_Master_Tile_C_43] 44
+[2019.08.09-11.58.06:874][548]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-11.58.06:875][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-11.58.06:922][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.09-11.58.06:923][548]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-11.58.06:978][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-11.58.07:020][549]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.08.09-11.58.43:700][698]LogHttp: Warning: 0000023412F11440: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-11.58.43:700][698]LogHttp: Warning: 0000023412F11440: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-11.58.43:700][698]LogHttp: Warning: 0000023412F11440: libcurl info message cache 1 (Closing connection 11)
+[2019.08.09-11.58.43:700][698]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-11.59.06:367][984]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Runner/Blue_Prints/CoinBP.CoinBP
+[2019.08.09-11.59.12:198][304]BlueprintLog: New page: Compile MagnetBP
+[2019.08.09-11.59.13:119][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/MagnetBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/MagnetBP.uasset" SILENT=true
+[2019.08.09-11.59.13:185][333]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/MagnetBPD644C36F422B10815399F3B12E70268E.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/MagnetBP.uasset'
+[2019.08.09-11.59.17:357][558]BlueprintLog: New page: Compile CoinBP
+[2019.08.09-11.59.18:231][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.09-11.59.18:312][578]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBP60F7A48840810FDD9FA5E9866E163015.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.09-11.59.20:221][677]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.09-11.59.20:273][677]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-11.59.20:273][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.09-11.59.20:273][677]PIE: New page: PIE session: Level1 (Aug 9, 2019, 10:59:20 PM)
+[2019.08.09-11.59.20:273][677]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-11.59.20:279][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005562s)
+[2019.08.09-11.59.20:280][677]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-11.59.20:281][677]LogPlayLevel: PIE: World Init took: (0.001419s)
+[2019.08.09-11.59.20:281][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.007285s)
+[2019.08.09-11.59.20:326][677]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.09-11.59.20:365][677]LogInit: FAudioDevice initialized.
+[2019.08.09-11.59.20:409][677]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-11.59.20:411][677]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.29.20
+[2019.08.09-11.59.20:412][677]LogWorld: Bringing up level for play took: 0.000876
+[2019.08.09-11.59.20:458][677]PIE: Play in editor start time for /Game/Runner/Levels/UEDPIE_0_Level1 -0.347
+[2019.08.09-11.59.20:458][677]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-11.59.21:783][738]Cmd: restartlevel
+[2019.08.09-11.59.21:784][738]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-11.59.21:784][738]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-11.59.21:851][738]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-11.59.21:856][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004879s)
+[2019.08.09-11.59.21:857][738]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-11.59.21:857][738]LogPlayLevel: PIE: World Init took: (0.001420s)
+[2019.08.09-11.59.21:858][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.006643s)
+[2019.08.09-11.59.21:858][738]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-11.59.21:860][738]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.29.21
+[2019.08.09-11.59.21:861][738]LogWorld: Bringing up level for play took: 0.001543
+[2019.08.09-11.59.21:866][738]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-11.59.21:869][738]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-11.59.21:870][738]LogBlueprintUserMessages: [MagnetBP_C_2] Magnet Active
+[2019.08.09-11.59.21:896][738]LogLoad: Took 0.111601 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-11.59.22:403][761]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-11.59.23:242][801]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-11.59.23:285][803]LogBlueprintUserMessages: [MagnetBP_C_4] Magnet Active
+[2019.08.09-11.59.23:398][808]LogBlueprintUserMessages: [MagnetBP_C_3] Magnet Active
+[2019.08.09-11.59.24:042][839]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-11.59.24:855][877]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.09-11.59.25:651][914]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.09-11.59.26:451][952]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.09-11.59.27:231][988]LogBlueprintUserMessages: [B_Master_Tile_C_6] 7
+[2019.08.09-11.59.28:018][ 25]LogBlueprintUserMessages: [B_Master_Tile_C_7] 8
+[2019.08.09-11.59.28:062][ 27]LogBlueprintUserMessages: [MagnetBP_C_5] Magnet Active
+[2019.08.09-11.59.28:788][ 61]LogBlueprintUserMessages: [B_Master_Tile_C_8] 9
+[2019.08.09-11.59.29:386][ 90]LogBlueprintUserMessages: [MagnetBP_C_6] Magnet Active
+[2019.08.09-11.59.29:563][ 98]LogBlueprintUserMessages: [B_Master_Tile_C_9] 10
+[2019.08.09-11.59.30:301][133]LogBlueprintUserMessages: [B_Master_Tile_C_10] 11
+[2019.08.09-11.59.31:052][168]LogBlueprintUserMessages: [B_Master_Tile_C_11] 12
+[2019.08.09-11.59.31:093][170]LogBlueprintUserMessages: [MagnetBP_C_7] Magnet Active
+[2019.08.09-11.59.31:777][203]LogBlueprintUserMessages: [B_Master_Tile_C_12] 13
+[2019.08.09-11.59.32:513][238]LogBlueprintUserMessages: [B_Master_Tile_C_13] 14
+[2019.08.09-11.59.32:551][240]LogBlueprintUserMessages: [MagnetBP_C_8] Magnet Active
+[2019.08.09-11.59.33:256][272]LogBlueprintUserMessages: [B_Master_Tile_C_14] 15
+[2019.08.09-11.59.33:286][273]LogBlueprintUserMessages: [MagnetBP_C_9] Magnet Active
+[2019.08.09-11.59.33:964][306]LogBlueprintUserMessages: [B_Master_Tile_C_15] 16
+[2019.08.09-11.59.34:669][342]LogBlueprintUserMessages: [B_Master_Tile_C_16] 17
+[2019.08.09-11.59.35:369][378]LogBlueprintUserMessages: [B_Master_Tile_C_17] 18
+[2019.08.09-11.59.35:407][380]LogBlueprintUserMessages: [MagnetBP_C_11] Magnet Active
+[2019.08.09-11.59.35:521][386]LogBlueprintUserMessages: [MagnetBP_C_10] Magnet Active
+[2019.08.09-11.59.36:065][414]LogBlueprintUserMessages: [B_Master_Tile_C_18] 19
+[2019.08.09-11.59.36:767][450]LogBlueprintUserMessages: [B_Master_Tile_C_19] 20
+[2019.08.09-11.59.36:888][456]LogBlueprintUserMessages: [MagnetBP_C_12] Magnet Active
+[2019.08.09-11.59.37:455][485]LogBlueprintUserMessages: [B_Master_Tile_C_20] 21
+[2019.08.09-11.59.38:122][520]LogBlueprintUserMessages: [B_Master_Tile_C_21] 22
+[2019.08.09-11.59.38:160][522]LogBlueprintUserMessages: [MagnetBP_C_14] Magnet Active
+[2019.08.09-11.59.38:258][527]LogBlueprintUserMessages: [MagnetBP_C_13] Magnet Active
+[2019.08.09-11.59.38:792][555]LogBlueprintUserMessages: [B_Master_Tile_C_22] 23
+[2019.08.09-11.59.39:452][586]LogBlueprintUserMessages: [B_Master_Tile_C_23] 24
+[2019.08.09-11.59.40:107][616]LogBlueprintUserMessages: [B_Master_Tile_C_24] 25
+[2019.08.09-11.59.40:761][646]LogBlueprintUserMessages: [B_Master_Tile_C_25] 26
+[2019.08.09-11.59.41:403][677]LogBlueprintUserMessages: [B_Master_Tile_C_26] 27
+[2019.08.09-11.59.42:037][706]LogBlueprintUserMessages: [B_Master_Tile_C_27] 28
+[2019.08.09-11.59.42:666][735]LogBlueprintUserMessages: [B_Master_Tile_C_28] 29
+[2019.08.09-11.59.43:299][766]LogBlueprintUserMessages: [B_Master_Tile_C_29] 30
+[2019.08.09-11.59.43:928][795]LogBlueprintUserMessages: [B_Master_Tile_C_30] 31
+[2019.08.09-11.59.44:034][800]LogBlueprintUserMessages: [MagnetBP_C_16] Magnet Active
+[2019.08.09-11.59.44:406][818]LogBlueprintUserMessages: [MagnetBP_C_15] Magnet Active
+[2019.08.09-11.59.44:530][824]LogBlueprintUserMessages: [B_Master_Tile_C_31] 32
+[2019.08.09-11.59.44:727][833]LogBlueprintUserMessages: [MagnetBP_C_17] Magnet Active
+[2019.08.09-11.59.45:134][852]LogBlueprintUserMessages: [B_Master_Tile_C_32] 33
+[2019.08.09-11.59.45:735][880]LogBlueprintUserMessages: [B_Master_Tile_C_33] 34
+[2019.08.09-11.59.46:329][909]LogBlueprintUserMessages: [B_Master_Tile_C_34] 35
+[2019.08.09-11.59.46:926][937]LogBlueprintUserMessages: [B_Master_Tile_C_35] 36
+[2019.08.09-11.59.47:499][964]LogBlueprintUserMessages: [B_Master_Tile_C_36] 37
+[2019.08.09-11.59.48:075][990]LogBlueprintUserMessages: [B_Master_Tile_C_37] 38
+[2019.08.09-11.59.48:119][992]LogBlueprintUserMessages: [MagnetBP_C_18] Magnet Active
+[2019.08.09-11.59.48:649][ 17]LogBlueprintUserMessages: [B_Master_Tile_C_38] 39
+[2019.08.09-11.59.49:213][ 43]LogBlueprintUserMessages: [B_Master_Tile_C_39] 40
+[2019.08.09-11.59.49:256][ 45]LogBlueprintUserMessages: [MagnetBP_C_19] Magnet Active
+[2019.08.09-11.59.49:785][ 70]LogBlueprintUserMessages: [B_Master_Tile_C_40] 41
+[2019.08.09-11.59.50:342][ 96]LogBlueprintUserMessages: [B_Master_Tile_C_41] 42
+[2019.08.09-11.59.50:875][121]LogBlueprintUserMessages: [B_Master_Tile_C_42] 43
+[2019.08.09-11.59.51:420][147]LogBlueprintUserMessages: [B_Master_Tile_C_43] 44
+[2019.08.09-11.59.51:963][173]LogBlueprintUserMessages: [B_Master_Tile_C_44] 45
+[2019.08.09-11.59.52:487][197]LogBlueprintUserMessages: [B_Master_Tile_C_45] 46
+[2019.08.09-11.59.53:021][223]LogBlueprintUserMessages: [B_Master_Tile_C_46] 47
+[2019.08.09-11.59.53:042][224]LogBlueprintUserMessages: [MagnetBP_C_20] Magnet Active
+[2019.08.09-11.59.53:547][246]LogBlueprintUserMessages: [B_Master_Tile_C_47] 48
+[2019.08.09-11.59.54:056][269]LogBlueprintUserMessages: [B_Master_Tile_C_48] 49
+[2019.08.09-11.59.54:457][288]LogBlueprintUserMessages: [MagnetBP_C_21] Magnet Active
+[2019.08.09-11.59.54:572][293]LogBlueprintUserMessages: [B_Master_Tile_C_49] 50
+[2019.08.09-11.59.54:667][297]LogBlueprintUserMessages: [MagnetBP_C_22] Magnet Active
+[2019.08.09-11.59.55:083][316]LogBlueprintUserMessages: [B_Master_Tile_C_50] 51
+[2019.08.09-11.59.55:589][339]LogBlueprintUserMessages: [B_Master_Tile_C_51] 52
+[2019.08.09-11.59.56:083][362]LogBlueprintUserMessages: [B_Master_Tile_C_52] 53
+[2019.08.09-11.59.56:193][367]LogBlueprintUserMessages: [MagnetBP_C_23] Magnet Active
+[2019.08.09-11.59.56:567][384]LogBlueprintUserMessages: [B_Master_Tile_C_53] 54
+[2019.08.09-11.59.57:052][406]LogBlueprintUserMessages: [B_Master_Tile_C_54] 55
+[2019.08.09-11.59.58:713][484]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-11.59.58:714][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-11.59.58:762][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.09-11.59.58:763][484]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-11.59.58:829][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-11.59.58:864][485]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.08.09-12.00.44:293][390]LogHttp: Warning: 000002341ABEB600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-12.00.44:293][390]LogHttp: Warning: 000002341ABEB600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-12.00.44:293][390]LogHttp: Warning: 000002341ABEB600: libcurl info message cache 1 (Closing connection 12)
+[2019.08.09-12.00.44:293][390]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-12.01.40:589][419]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.09-12.01.46:324][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.09-12.02.00:997][485]BlueprintLog: New page: Compile CoinBP
+[2019.08.09-12.02.01:986][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.09-12.02.02:066][506]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBP316445854BB0B6C9F4A4EBB7B521DC11.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.09-12.02.13:116][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.09-12.02.44:346][699]LogHttp: Warning: 0000023419446980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-12.02.44:346][699]LogHttp: Warning: 0000023419446980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-12.02.44:346][699]LogHttp: Warning: 0000023419446980: libcurl info message cache 1 (Closing connection 13)
+[2019.08.09-12.02.44:366][700]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-12.02.54:529][234]BlueprintLog: New page: Compile CoinBP
+[2019.08.09-12.02.55:609][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.09-12.02.55:700][262]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBP660FEB824DAA145D4A6F278D82F7D580.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.09-12.03.10:733][ 51]BlueprintLog: New page: Compile MagnetBP
+[2019.08.09-12.03.11:978][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/MagnetBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/MagnetBP.uasset" SILENT=true
+[2019.08.09-12.03.12:050][ 93]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/MagnetBPF36C0AFD497A2E6DE36EF3912AAD4BAB.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/MagnetBP.uasset'
+[2019.08.09-12.03.21:113][567]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.09-12.03.21:168][567]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.03.21:168][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.09-12.03.21:168][567]PIE: New page: PIE session: Level1 (Aug 9, 2019, 11:03:21 PM)
+[2019.08.09-12.03.21:168][567]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.03.21:174][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005615s)
+[2019.08.09-12.03.21:175][567]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.03.21:175][567]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2019.08.09-12.03.21:175][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.006908s)
+[2019.08.09-12.03.21:245][567]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.09-12.03.21:282][567]LogInit: FAudioDevice initialized.
+[2019.08.09-12.03.21:325][567]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.03.21:326][567]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.33.21
+[2019.08.09-12.03.21:327][567]LogWorld: Bringing up level for play took: 0.000867
+[2019.08.09-12.03.21:348][567]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.03.21:372][567]PIE: Play in editor start time for /Game/Runner/Levels/UEDPIE_0_Level1 0.567
+[2019.08.09-12.03.21:373][567]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.03.21:733][576]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.03.23:241][649]Cmd: restartlevel
+[2019.08.09-12.03.23:244][649]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.03.23:244][649]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.03.23:318][649]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.03.23:326][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007592s)
+[2019.08.09-12.03.23:327][649]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.03.23:327][649]LogPlayLevel: PIE: World Init took: (0.001327s)
+[2019.08.09-12.03.23:328][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.009555s)
+[2019.08.09-12.03.23:328][649]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.03.23:330][649]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.33.23
+[2019.08.09-12.03.23:330][649]LogWorld: Bringing up level for play took: 0.001389
+[2019.08.09-12.03.23:386][649]LogLoad: Took 0.141820 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.03.23:668][661]Cmd: restartlevel
+[2019.08.09-12.03.23:668][661]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.03.23:670][661]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.03.23:730][661]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.03.23:736][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006152s)
+[2019.08.09-12.03.23:738][661]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.03.23:739][661]LogPlayLevel: PIE: World Init took: (0.002632s)
+[2019.08.09-12.03.23:739][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.009227s)
+[2019.08.09-12.03.23:739][661]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.03.23:743][661]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.33.23
+[2019.08.09-12.03.23:744][661]LogWorld: Bringing up level for play took: 0.001524
+[2019.08.09-12.03.23:759][661]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.03.23:795][661]LogLoad: Took 0.125903 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.03.24:291][683]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.03.24:443][690]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-12.03.25:119][722]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-12.03.25:303][731]LogBlueprintUserMessages: [MagnetBP_C_2] Magnet Active
+[2019.08.09-12.03.25:947][760]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-12.03.26:752][796]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.09-12.03.27:545][833]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.09-12.03.28:335][869]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.09-12.03.29:131][906]LogBlueprintUserMessages: [B_Master_Tile_C_6] 7
+[2019.08.09-12.03.29:896][941]LogBlueprintUserMessages: [B_Master_Tile_C_7] 8
+[2019.08.09-12.03.30:055][948]LogBlueprintUserMessages: [MagnetBP_C_3] Magnet Active
+[2019.08.09-12.03.33:593][123]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.03.33:594][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-12.03.33:652][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.09-12.03.33:653][123]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.03.33:711][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-12.03.33:743][124]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.08.09-12.04.44:956][  9]LogHttp: Warning: 000002341A4E6AC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-12.04.44:956][  9]LogHttp: Warning: 000002341A4E6AC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-12.04.44:956][  9]LogHttp: Warning: 000002341A4E6AC0: libcurl info message cache 1 (Closing connection 14)
+[2019.08.09-12.04.45:294][ 10]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-12.05.36:240][641]BlueprintLog: New page: Compile CoinBP
+[2019.08.09-12.05.36:867][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.09-12.05.36:976][643]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBP31F0568A45DE3C3A3429BBB4133F03B8.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.09-12.06.45:328][569]LogHttp: Warning: 000002342F9DD940: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-12.06.45:328][569]LogHttp: Warning: 000002342F9DD940: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-12.06.45:328][569]LogHttp: Warning: 000002342F9DD940: libcurl info message cache 1 (Closing connection 15)
+[2019.08.09-12.06.45:345][570]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-12.07.18:933][934]BlueprintLog: New page: Compile CoinBP
+[2019.08.09-12.07.19:783][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.09-12.07.19:838][964]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBP94253E794F7A05736663F297304DA71F.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.09-12.07.21:792][ 80]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.09-12.07.21:827][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.07.21:828][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.09-12.07.21:828][ 80]PIE: New page: PIE session: Level1 (Aug 9, 2019, 11:07:21 PM)
+[2019.08.09-12.07.21:828][ 80]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.07.21:831][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003032s)
+[2019.08.09-12.07.21:832][ 80]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.07.21:832][ 80]LogPlayLevel: PIE: World Init took: (0.001402s)
+[2019.08.09-12.07.21:832][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.004670s)
+[2019.08.09-12.07.21:868][ 80]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.09-12.07.21:886][ 80]LogInit: FAudioDevice initialized.
+[2019.08.09-12.07.21:924][ 80]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.07.21:925][ 80]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.37.21
+[2019.08.09-12.07.21:925][ 80]LogWorld: Bringing up level for play took: 0.000611
+[2019.08.09-12.07.21:951][ 80]PIE: Play in editor start time for /Game/Runner/Levels/UEDPIE_0_Level1 -0.854
+[2019.08.09-12.07.21:951][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.07.22:411][105]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.07.23:935][196]Cmd: restartlevel
+[2019.08.09-12.07.23:935][196]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.07.23:935][196]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.07.23:978][196]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.07.23:981][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002861s)
+[2019.08.09-12.07.23:982][196]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.07.23:982][196]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2019.08.09-12.07.23:982][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.004066s)
+[2019.08.09-12.07.23:982][196]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.07.23:984][196]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.37.23
+[2019.08.09-12.07.23:984][196]LogWorld: Bringing up level for play took: 0.000711
+[2019.08.09-12.07.23:987][196]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.07.23:989][196]LogScript: Warning: Attempted to access Timeline_0 via property Timeline_0, but Timeline_0 is pending kill
+	CoinBP_C /Game/Runner/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.CoinBP_C_0
+	Function /Game/Runner/Blue_Prints/CoinBP.CoinBP_C:ExecuteUbergraph_CoinBP:0028
+[2019.08.09-12.07.23:989][196]PIE: Error: Blueprint Runtime Error: "Attempted to access Timeline_0 via property Timeline_0, but Timeline_0 is pending kill". Blueprint:  CoinBP Function:  Execute Ubergraph Coin BP Graph:  EventGraph Node:  Timeline_0
+[2019.08.09-12.07.23:998][196]LogLoad: Took 0.062619 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.07.24:560][229]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.07.25:378][278]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-12.07.26:194][327]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-12.07.27:024][375]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.09-12.07.27:319][389]LogScript: Warning: Attempted to access Timeline_0 via property Timeline_0, but Timeline_0 is pending kill
+	CoinBP_C /Game/Runner/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.CoinBP_C_1
+	Function /Game/Runner/Blue_Prints/CoinBP.CoinBP_C:ExecuteUbergraph_CoinBP:0028
+[2019.08.09-12.07.27:320][389]PIE: Error: Blueprint Runtime Error: "Attempted to access Timeline_0 via property Timeline_0, but Timeline_0 is pending kill". Blueprint:  CoinBP Function:  Execute Ubergraph Coin BP Graph:  EventGraph Node:  Timeline_0
+[2019.08.09-12.07.27:811][412]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.09-12.07.28:604][449]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.09-12.07.28:904][464]LogScript: Warning: Attempted to access Timeline_0 via property Timeline_0, but Timeline_0 is pending kill
+	CoinBP_C /Game/Runner/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.CoinBP_C_2
+	Function /Game/Runner/Blue_Prints/CoinBP.CoinBP_C:ExecuteUbergraph_CoinBP:0028
+[2019.08.09-12.07.28:905][464]PIE: Error: Blueprint Runtime Error: "Attempted to access Timeline_0 via property Timeline_0, but Timeline_0 is pending kill". Blueprint:  CoinBP Function:  Execute Ubergraph Coin BP Graph:  EventGraph Node:  Timeline_0
+[2019.08.09-12.07.29:394][488]LogBlueprintUserMessages: [B_Master_Tile_C_6] 7
+[2019.08.09-12.07.30:168][526]LogBlueprintUserMessages: [B_Master_Tile_C_7] 8
+[2019.08.09-12.07.30:226][529]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-12.07.30:939][565]LogBlueprintUserMessages: [B_Master_Tile_C_8] 9
+[2019.08.09-12.07.31:716][603]LogBlueprintUserMessages: [B_Master_Tile_C_9] 10
+[2019.08.09-12.07.31:858][610]LogBlueprintUserMessages: [MagnetBP_C_2] Magnet Active
+[2019.08.09-12.07.32:452][640]LogBlueprintUserMessages: [B_Master_Tile_C_10] 11
+[2019.08.09-12.07.32:769][655]LogScript: Warning: Attempted to access Timeline_0 via property Timeline_0, but Timeline_0 is pending kill
+	CoinBP_C /Game/Runner/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.CoinBP_C_4
+	Function /Game/Runner/Blue_Prints/CoinBP.CoinBP_C:ExecuteUbergraph_CoinBP:0028
+[2019.08.09-12.07.32:770][655]PIE: Error: Blueprint Runtime Error: "Attempted to access Timeline_0 via property Timeline_0, but Timeline_0 is pending kill". Blueprint:  CoinBP Function:  Execute Ubergraph Coin BP Graph:  EventGraph Node:  Timeline_0
+[2019.08.09-12.07.32:912][662]LogScript: Warning: Attempted to access Timeline_0 via property Timeline_0, but Timeline_0 is pending kill
+	CoinBP_C /Game/Runner/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.CoinBP_C_3
+	Function /Game/Runner/Blue_Prints/CoinBP.CoinBP_C:ExecuteUbergraph_CoinBP:0028
+[2019.08.09-12.07.32:914][662]PIE: Error: Blueprint Runtime Error: "Attempted to access Timeline_0 via property Timeline_0, but Timeline_0 is pending kill". Blueprint:  CoinBP Function:  Execute Ubergraph Coin BP Graph:  EventGraph Node:  Timeline_0
+[2019.08.09-12.07.33:216][677]LogBlueprintUserMessages: [B_Master_Tile_C_11] 12
+[2019.08.09-12.07.33:949][713]LogBlueprintUserMessages: [B_Master_Tile_C_12] 13
+[2019.08.09-12.07.34:681][749]LogBlueprintUserMessages: [B_Master_Tile_C_13] 14
+[2019.08.09-12.07.34:813][756]LogBlueprintUserMessages: [MagnetBP_C_3] Magnet Active
+[2019.08.09-12.07.35:401][785]LogBlueprintUserMessages: [B_Master_Tile_C_14] 15
+[2019.08.09-12.07.36:122][820]LogBlueprintUserMessages: [B_Master_Tile_C_15] 16
+[2019.08.09-12.07.36:833][854]LogBlueprintUserMessages: [B_Master_Tile_C_16] 17
+[2019.08.09-12.07.37:549][888]LogBlueprintUserMessages: [B_Master_Tile_C_17] 18
+[2019.08.09-12.07.37:572][889]LogBlueprintUserMessages: [MagnetBP_C_4] Magnet Active
+[2019.08.09-12.07.38:231][919]LogBlueprintUserMessages: [B_Master_Tile_C_18] 19
+[2019.08.09-12.07.38:923][952]LogBlueprintUserMessages: [B_Master_Tile_C_19] 20
+[2019.08.09-12.07.39:309][969]LogScript: Warning: Attempted to access Timeline_0 via property Timeline_0, but Timeline_0 is pending kill
+	CoinBP_C /Game/Runner/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.CoinBP_C_5
+	Function /Game/Runner/Blue_Prints/CoinBP.CoinBP_C:ExecuteUbergraph_CoinBP:0028
+[2019.08.09-12.07.39:310][969]PIE: Error: Blueprint Runtime Error: "Attempted to access Timeline_0 via property Timeline_0, but Timeline_0 is pending kill". Blueprint:  CoinBP Function:  Execute Ubergraph Coin BP Graph:  EventGraph Node:  Timeline_0
+[2019.08.09-12.07.39:602][982]LogBlueprintUserMessages: [B_Master_Tile_C_20] 21
+[2019.08.09-12.07.40:286][ 13]LogBlueprintUserMessages: [B_Master_Tile_C_21] 22
+[2019.08.09-12.07.40:950][ 45]LogBlueprintUserMessages: [B_Master_Tile_C_22] 23
+[2019.08.09-12.07.41:327][ 62]LogScript: Warning: Attempted to access Timeline_0 via property Timeline_0, but Timeline_0 is pending kill
+	CoinBP_C /Game/Runner/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.CoinBP_C_6
+	Function /Game/Runner/Blue_Prints/CoinBP.CoinBP_C:ExecuteUbergraph_CoinBP:0028
+[2019.08.09-12.07.41:327][ 62]PIE: Error: Blueprint Runtime Error: "Attempted to access Timeline_0 via property Timeline_0, but Timeline_0 is pending kill". Blueprint:  CoinBP Function:  Execute Ubergraph Coin BP Graph:  EventGraph Node:  Timeline_0
+[2019.08.09-12.07.41:607][ 75]LogBlueprintUserMessages: [B_Master_Tile_C_23] 24
+[2019.08.09-12.07.41:649][ 77]LogBlueprintUserMessages: [MagnetBP_C_6] Magnet Active
+[2019.08.09-12.07.41:740][ 81]LogBlueprintUserMessages: [MagnetBP_C_5] Magnet Active
+[2019.08.09-12.07.41:741][ 81]LogBlueprintUserMessages: [MagnetBP_C_7] Magnet Active
+[2019.08.09-12.07.42:261][106]LogBlueprintUserMessages: [B_Master_Tile_C_24] 25
+[2019.08.09-12.07.42:302][108]LogBlueprintUserMessages: [MagnetBP_C_8] Magnet Active
+[2019.08.09-12.07.42:631][123]LogScript: Warning: Attempted to access Timeline_0 via property Timeline_0, but Timeline_0 is pending kill
+	CoinBP_C /Game/Runner/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.CoinBP_C_7
+	Function /Game/Runner/Blue_Prints/CoinBP.CoinBP_C:ExecuteUbergraph_CoinBP:0028
+[2019.08.09-12.07.42:632][123]PIE: Error: Blueprint Runtime Error: "Attempted to access Timeline_0 via property Timeline_0, but Timeline_0 is pending kill". Blueprint:  CoinBP Function:  Execute Ubergraph Coin BP Graph:  EventGraph Node:  Timeline_0
+[2019.08.09-12.07.42:632][123]LogScript: Warning: Attempted to access Timeline_0 via property Timeline_0, but Timeline_0 is pending kill
+	CoinBP_C /Game/Runner/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.CoinBP_C_8
+	Function /Game/Runner/Blue_Prints/CoinBP.CoinBP_C:ExecuteUbergraph_CoinBP:0028
+[2019.08.09-12.07.42:633][123]PIE: Error: Blueprint Runtime Error: "Attempted to access Timeline_0 via property Timeline_0, but Timeline_0 is pending kill". Blueprint:  CoinBP Function:  Execute Ubergraph Coin BP Graph:  EventGraph Node:  Timeline_0
+[2019.08.09-12.07.42:917][136]LogBlueprintUserMessages: [B_Master_Tile_C_25] 26
+[2019.08.09-12.07.42:957][138]LogBlueprintUserMessages: [MagnetBP_C_10] Magnet Active
+[2019.08.09-12.07.43:041][142]LogBlueprintUserMessages: [MagnetBP_C_9] Magnet Active
+[2019.08.09-12.07.43:041][142]LogBlueprintUserMessages: [MagnetBP_C_11] Magnet Active
+[2019.08.09-12.07.43:567][166]LogBlueprintUserMessages: [B_Master_Tile_C_26] 27
+[2019.08.09-12.07.43:679][171]LogBlueprintUserMessages: [MagnetBP_C_12] Magnet Active
+[2019.08.09-12.07.44:206][196]LogBlueprintUserMessages: [B_Master_Tile_C_27] 28
+[2019.08.09-12.07.44:313][201]LogBlueprintUserMessages: [MagnetBP_C_13] Magnet Active
+[2019.08.09-12.07.44:841][226]LogBlueprintUserMessages: [B_Master_Tile_C_28] 29
+[2019.08.09-12.07.44:881][228]LogBlueprintUserMessages: [MagnetBP_C_14] Magnet Active
+[2019.08.09-12.07.45:446][256]LogBlueprintUserMessages: [B_Master_Tile_C_29] 30
+[2019.08.09-12.07.46:072][286]LogBlueprintUserMessages: [B_Master_Tile_C_30] 31
+[2019.08.09-12.07.46:179][291]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.07.46:180][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-12.07.46:238][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.09-12.07.46:239][291]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.07.46:297][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-12.07.46:386][292]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.08.09-12.07.50:585][488]LogSlate: Window 'Message Log' being destroyed
+[2019.08.09-12.07.50:594][488]LogSlate: Window 'Message Log' being destroyed
+[2019.08.09-12.08.08:014][369]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::GetGameMode' [Element not found.]
+[2019.08.09-12.08.33:095][899]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_DestroyActor' [Element not found.]
+[2019.08.09-12.08.45:401][557]LogHttp: Warning: 000002341BBE56C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-12.08.45:401][557]LogHttp: Warning: 000002341BBE56C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-12.08.45:401][557]LogHttp: Warning: 000002341BBE56C0: libcurl info message cache 1 (Closing connection 16)
+[2019.08.09-12.08.45:421][558]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-12.08.55:129][ 93]BlueprintLog: New page: Compile CoinBP
+[2019.08.09-12.08.56:305][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.09-12.08.56:510][126]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBP3FE1B81849A93C8C216EE8B4250585EE.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.09-12.09.00:029][316]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.09-12.09.00:078][316]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.09.00:079][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.09-12.09.00:079][316]PIE: New page: PIE session: Level1 (Aug 9, 2019, 11:09:00 PM)
+[2019.08.09-12.09.00:079][316]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.09.00:084][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004650s)
+[2019.08.09-12.09.00:085][316]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.09.00:085][316]LogPlayLevel: PIE: World Init took: (0.001519s)
+[2019.08.09-12.09.00:085][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.006402s)
+[2019.08.09-12.09.00:132][316]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.09-12.09.00:173][316]LogInit: FAudioDevice initialized.
+[2019.08.09-12.09.00:213][316]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.09.00:214][316]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.39.00
+[2019.08.09-12.09.00:214][316]LogWorld: Bringing up level for play took: 0.000821
+[2019.08.09-12.09.00:236][316]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.09.00:237][316]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-12.09.00:259][316]PIE: Play in editor start time for /Game/Runner/Levels/UEDPIE_0_Level1 -0.547
+[2019.08.09-12.09.00:259][316]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.09.00:648][326]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.09.01:480][365]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-12.09.02:285][404]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-12.09.02:328][406]LogBlueprintUserMessages: [MagnetBP_C_2] Magnet Active
+[2019.08.09-12.09.03:097][441]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.09-12.09.03:908][482]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.09-12.09.04:700][523]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.09-12.09.06:867][634]Cmd: restartlevel
+[2019.08.09-12.09.06:868][634]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.09.06:868][634]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.09.06:927][634]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.09.06:931][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004309s)
+[2019.08.09-12.09.06:932][634]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.09.06:932][634]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2019.08.09-12.09.06:932][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.005565s)
+[2019.08.09-12.09.06:932][634]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.09.06:934][634]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.39.06
+[2019.08.09-12.09.06:935][634]LogWorld: Bringing up level for play took: 0.001508
+[2019.08.09-12.09.06:947][634]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.09.06:948][634]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-12.09.06:976][634]LogLoad: Took 0.107682 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.09.08:045][688]Cmd: restartlevel
+[2019.08.09-12.09.08:046][688]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.09.08:048][688]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.09.08:101][688]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.09.08:106][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004522s)
+[2019.08.09-12.09.08:107][688]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.09.08:108][688]LogPlayLevel: PIE: World Init took: (0.001539s)
+[2019.08.09-12.09.08:108][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.006360s)
+[2019.08.09-12.09.08:108][688]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.09.08:110][688]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.39.08
+[2019.08.09-12.09.08:111][688]LogWorld: Bringing up level for play took: 0.001687
+[2019.08.09-12.09.08:146][688]LogLoad: Took 0.097922 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.09.09:032][732]Cmd: restartlevel
+[2019.08.09-12.09.09:032][732]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.09.09:033][732]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.09.09:112][732]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.09.09:116][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003827s)
+[2019.08.09-12.09.09:117][732]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.09.09:118][732]LogPlayLevel: PIE: World Init took: (0.001718s)
+[2019.08.09-12.09.09:118][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.005800s)
+[2019.08.09-12.09.09:118][732]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.09.09:120][732]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.39.09
+[2019.08.09-12.09.09:121][732]LogWorld: Bringing up level for play took: 0.001775
+[2019.08.09-12.09.09:155][732]LogLoad: Took 0.121928 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.09.09:645][750]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.09.09:706][753]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-12.09.09:815][758]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.09.09:818][758]LogBlueprintUserMessages: [MagnetBP_C_2] Magnet Active
+[2019.08.09-12.09.10:475][790]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-12.09.11:305][830]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-12.09.12:099][868]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.09-12.09.12:612][893]LogBlueprintUserMessages: [MagnetBP_C_3] Magnet Active
+[2019.08.09-12.09.12:903][907]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.09-12.09.12:944][909]LogBlueprintUserMessages: [MagnetBP_C_4] Magnet Active
+[2019.08.09-12.09.13:702][944]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.09-12.09.14:487][982]LogBlueprintUserMessages: [B_Master_Tile_C_6] 7
+[2019.08.09-12.09.15:259][ 19]LogBlueprintUserMessages: [B_Master_Tile_C_7] 8
+[2019.08.09-12.09.16:041][ 57]LogBlueprintUserMessages: [B_Master_Tile_C_8] 9
+[2019.08.09-12.09.16:798][ 93]LogBlueprintUserMessages: [B_Master_Tile_C_9] 10
+[2019.08.09-12.09.17:557][130]LogBlueprintUserMessages: [B_Master_Tile_C_10] 11
+[2019.08.09-12.09.17:599][132]LogBlueprintUserMessages: [MagnetBP_C_5] Magnet Active
+[2019.08.09-12.09.18:300][165]LogBlueprintUserMessages: [B_Master_Tile_C_11] 12
+[2019.08.09-12.09.18:337][167]LogBlueprintUserMessages: [MagnetBP_C_6] Magnet Active
+[2019.08.09-12.09.19:040][201]LogBlueprintUserMessages: [B_Master_Tile_C_12] 13
+[2019.08.09-12.09.19:770][236]LogBlueprintUserMessages: [B_Master_Tile_C_13] 14
+[2019.08.09-12.09.20:485][270]LogBlueprintUserMessages: [B_Master_Tile_C_14] 15
+[2019.08.09-12.09.21:203][305]LogBlueprintUserMessages: [B_Master_Tile_C_15] 16
+[2019.08.09-12.09.21:267][308]LogBlueprintUserMessages: [MagnetBP_C_7] Magnet Active
+[2019.08.09-12.09.21:928][340]LogBlueprintUserMessages: [B_Master_Tile_C_16] 17
+[2019.08.09-12.09.22:458][365]LogBlueprintUserMessages: [MagnetBP_C_8] Magnet Active
+[2019.08.09-12.09.22:624][372]LogBlueprintUserMessages: [B_Master_Tile_C_17] 18
+[2019.08.09-12.09.22:660][374]LogBlueprintUserMessages: [MagnetBP_C_9] Magnet Active
+[2019.08.09-12.09.23:317][404]LogBlueprintUserMessages: [B_Master_Tile_C_18] 19
+[2019.08.09-12.09.23:449][411]LogBlueprintUserMessages: [MagnetBP_C_10] Magnet Active
+[2019.08.09-12.09.24:011][434]LogBlueprintUserMessages: [B_Master_Tile_C_19] 20
+[2019.08.09-12.09.24:695][467]LogBlueprintUserMessages: [B_Master_Tile_C_20] 21
+[2019.08.09-12.09.25:375][499]LogBlueprintUserMessages: [B_Master_Tile_C_21] 22
+[2019.08.09-12.09.26:043][531]LogBlueprintUserMessages: [B_Master_Tile_C_22] 23
+[2019.08.09-12.09.26:087][533]LogBlueprintUserMessages: [MagnetBP_C_11] Magnet Active
+[2019.08.09-12.09.26:705][562]LogBlueprintUserMessages: [B_Master_Tile_C_23] 24
+[2019.08.09-12.09.26:739][564]LogBlueprintUserMessages: [MagnetBP_C_12] Magnet Active
+[2019.08.09-12.09.28:262][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.09.28:263][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-12.09.28:309][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.09-12.09.28:310][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.09.28:361][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-12.09.28:394][640]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.08.09-12.09.46:354][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.09-12.09.49:990][769]BlueprintLog: New page: Compile CoinBP
+[2019.08.09-12.09.50:984][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.09-12.09.51:083][791]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBPF82BFCCB410A2C5DD8E4A8BBE31B8859.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.09-12.09.52:703][874]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.09-12.09.52:756][874]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.09.52:756][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.09-12.09.52:757][874]PIE: New page: PIE session: Level1 (Aug 9, 2019, 11:09:52 PM)
+[2019.08.09-12.09.52:757][874]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.09.52:763][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005931s)
+[2019.08.09-12.09.52:763][874]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.09.52:764][874]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2019.08.09-12.09.52:764][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.007103s)
+[2019.08.09-12.09.52:834][874]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.09-12.09.52:885][874]LogInit: FAudioDevice initialized.
+[2019.08.09-12.09.52:931][874]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.09.52:933][874]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.39.52
+[2019.08.09-12.09.52:933][874]LogWorld: Bringing up level for play took: 0.001398
+[2019.08.09-12.09.52:971][874]PIE: Play in editor start time for /Game/Runner/Levels/UEDPIE_0_Level1 0.167
+[2019.08.09-12.09.52:971][874]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.09.53:330][890]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.09.59:693][960]Cmd: restartlevel
+[2019.08.09-12.09.59:694][960]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.09.59:696][960]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.09.59:746][960]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.09.59:751][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004481s)
+[2019.08.09-12.09.59:752][960]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.09.59:752][960]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2019.08.09-12.09.59:752][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.005752s)
+[2019.08.09-12.09.59:752][960]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.09.59:753][960]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.39.59
+[2019.08.09-12.09.59:754][960]LogWorld: Bringing up level for play took: 0.000842
+[2019.08.09-12.09.59:785][960]LogLoad: Took 0.089626 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.10.05:557][244]Cmd: restartlevel
+[2019.08.09-12.10.05:559][244]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.10.05:559][244]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.10.05:615][244]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.10.05:619][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004680s)
+[2019.08.09-12.10.05:620][244]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.10.05:621][244]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2019.08.09-12.10.05:621][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.006067s)
+[2019.08.09-12.10.05:621][244]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.10.05:622][244]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.40.05
+[2019.08.09-12.10.05:623][244]LogWorld: Bringing up level for play took: 0.000894
+[2019.08.09-12.10.05:649][244]LogLoad: Took 0.090000 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.10.06:185][268]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.10.07:018][308]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-12.10.07:830][347]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-12.10.08:631][382]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.09-12.10.09:432][422]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.09-12.10.10:233][462]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.09-12.10.11:008][501]LogBlueprintUserMessages: [B_Master_Tile_C_6] 7
+[2019.08.09-12.10.11:070][504]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.10.11:795][540]LogBlueprintUserMessages: [B_Master_Tile_C_7] 8
+[2019.08.09-12.10.12:387][570]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-12.10.12:567][579]LogBlueprintUserMessages: [B_Master_Tile_C_8] 9
+[2019.08.09-12.10.12:738][588]LogBlueprintUserMessages: [MagnetBP_C_2] Magnet Active
+[2019.08.09-12.10.13:324][618]LogBlueprintUserMessages: [B_Master_Tile_C_9] 10
+[2019.08.09-12.10.14:092][657]LogBlueprintUserMessages: [B_Master_Tile_C_10] 11
+[2019.08.09-12.10.19:857][692]LogBlueprintUserMessages: [B_Master_Tile_C_11] 12
+[2019.08.09-12.10.20:228][705]LogBlueprintUserMessages: [B_Master_Tile_C_12] 13
+[2019.08.09-12.10.20:980][739]LogBlueprintUserMessages: [B_Master_Tile_C_13] 14
+[2019.08.09-12.10.21:676][770]LogBlueprintUserMessages: [B_Master_Tile_C_14] 15
+[2019.08.09-12.10.21:720][772]LogBlueprintUserMessages: [MagnetBP_C_3] Magnet Active
+[2019.08.09-12.10.22:409][803]LogBlueprintUserMessages: [B_Master_Tile_C_15] 16
+[2019.08.09-12.10.23:118][834]LogBlueprintUserMessages: [B_Master_Tile_C_16] 17
+[2019.08.09-12.10.23:813][866]LogBlueprintUserMessages: [B_Master_Tile_C_17] 18
+[2019.08.09-12.10.23:955][873]LogBlueprintUserMessages: [MagnetBP_C_4] Magnet Active
+[2019.08.09-12.10.24:509][899]LogBlueprintUserMessages: [B_Master_Tile_C_18] 19
+[2019.08.09-12.10.25:215][932]LogBlueprintUserMessages: [B_Master_Tile_C_19] 20
+[2019.08.09-12.10.25:895][964]LogBlueprintUserMessages: [B_Master_Tile_C_20] 21
+[2019.08.09-12.10.26:015][970]LogBlueprintUserMessages: [MagnetBP_C_5] Magnet Active
+[2019.08.09-12.10.26:015][970]LogBlueprintUserMessages: [MagnetBP_C_6] Magnet Active
+[2019.08.09-12.10.26:165][977]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.10.26:165][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-12.10.26:215][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.09-12.10.26:216][977]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.10.26:270][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-12.10.26:303][978]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.08.09-12.10.35:226][420]BlueprintLog: New page: Compile CoinBP
+[2019.08.09-12.10.36:341][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.09-12.10.36:452][446]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBP6D990C4E4A012923FC6275B2E378C6A8.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.09-12.10.39:020][577]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.09-12.10.44:803][577]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.10.44:803][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.09-12.10.44:803][577]PIE: New page: PIE session: Level1 (Aug 9, 2019, 11:10:44 PM)
+[2019.08.09-12.10.44:803][577]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.10.44:809][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005745s)
+[2019.08.09-12.10.44:810][577]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.10.44:812][577]LogPlayLevel: PIE: World Init took: (0.002283s)
+[2019.08.09-12.10.44:812][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.008410s)
+[2019.08.09-12.10.44:867][577]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.09-12.10.44:925][577]LogInit: FAudioDevice initialized.
+[2019.08.09-12.10.44:966][577]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.10.44:967][577]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.40.44
+[2019.08.09-12.10.44:967][577]LogWorld: Bringing up level for play took: 0.000803
+[2019.08.09-12.10.44:990][577]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.10.45:011][577]PIE: Play in editor start time for /Game/Runner/Levels/UEDPIE_0_Level1 0.206
+[2019.08.09-12.10.45:012][577]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.10.45:262][582]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.10.45:465][590]LogHttp: Warning: 0000023406D9DBC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-12.10.45:465][590]LogHttp: Warning: 0000023406D9DBC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-12.10.45:465][590]LogHttp: Warning: 0000023406D9DBC0: libcurl info message cache 1 (Closing connection 17)
+[2019.08.09-12.10.45:465][590]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-12.10.46:868][661]Cmd: restartlevel
+[2019.08.09-12.10.46:869][661]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.10.46:873][661]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.10.46:929][661]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.10.46:933][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004410s)
+[2019.08.09-12.10.46:934][661]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.10.46:934][661]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2019.08.09-12.10.46:934][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.005754s)
+[2019.08.09-12.10.46:934][661]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.10.46:936][661]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.40.46
+[2019.08.09-12.10.46:936][661]LogWorld: Bringing up level for play took: 0.000895
+[2019.08.09-12.10.46:941][661]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.10.46:943][661]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-12.10.46:945][661]LogBlueprintUserMessages: [MagnetBP_C_2] Magnet Active
+[2019.08.09-12.10.46:971][661]LogLoad: Took 0.097709 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.10.47:492][684]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.10.47:657][692]LogBlueprintUserMessages: [MagnetBP_C_3] Magnet Active
+[2019.08.09-12.10.48:316][723]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-12.10.49:131][761]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-12.10.49:948][798]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.09-12.10.50:559][826]LogBlueprintUserMessages: [MagnetBP_C_4] Magnet Active
+[2019.08.09-12.10.50:737][834]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.09-12.10.51:540][871]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.09-12.10.52:153][899]LogBlueprintUserMessages: [MagnetBP_C_5] Magnet Active
+[2019.08.09-12.10.52:322][907]LogBlueprintUserMessages: [B_Master_Tile_C_6] 7
+[2019.08.09-12.10.53:103][943]LogBlueprintUserMessages: [B_Master_Tile_C_7] 8
+[2019.08.09-12.10.53:875][978]LogBlueprintUserMessages: [B_Master_Tile_C_8] 9
+[2019.08.09-12.10.54:627][ 12]LogBlueprintUserMessages: [B_Master_Tile_C_9] 10
+[2019.08.09-12.10.55:393][ 48]LogBlueprintUserMessages: [B_Master_Tile_C_10] 11
+[2019.08.09-12.10.55:428][ 50]LogBlueprintUserMessages: [MagnetBP_C_6] Magnet Active
+[2019.08.09-12.10.56:138][ 83]LogBlueprintUserMessages: [B_Master_Tile_C_11] 12
+[2019.08.09-12.10.56:164][ 84]LogBlueprintUserMessages: [MagnetBP_C_9] Magnet Active
+[2019.08.09-12.10.56:269][ 89]LogBlueprintUserMessages: [MagnetBP_C_8] Magnet Active
+[2019.08.09-12.10.56:694][109]LogBlueprintUserMessages: [MagnetBP_C_7] Magnet Active
+[2019.08.09-12.10.56:878][118]LogBlueprintUserMessages: [B_Master_Tile_C_12] 13
+[2019.08.09-12.10.57:605][153]LogBlueprintUserMessages: [B_Master_Tile_C_13] 14
+[2019.08.09-12.10.58:329][186]LogBlueprintUserMessages: [B_Master_Tile_C_14] 15
+[2019.08.09-12.10.59:041][220]LogBlueprintUserMessages: [B_Master_Tile_C_15] 16
+[2019.08.09-12.10.59:770][255]LogBlueprintUserMessages: [B_Master_Tile_C_16] 17
+[2019.08.09-12.11.00:461][288]LogBlueprintUserMessages: [B_Master_Tile_C_17] 18
+[2019.08.09-12.11.02:144][366]Cmd: restartlevel
+[2019.08.09-12.11.02:145][366]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.11.02:147][366]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.11.02:214][366]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.11.02:219][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004580s)
+[2019.08.09-12.11.02:220][366]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.11.02:220][366]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2019.08.09-12.11.02:220][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.005809s)
+[2019.08.09-12.11.02:220][366]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.11.02:221][366]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.41.02
+[2019.08.09-12.11.02:222][366]LogWorld: Bringing up level for play took: 0.000828
+[2019.08.09-12.11.02:233][366]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.11.02:235][366]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-12.11.02:272][366]LogLoad: Took 0.124341 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.11.02:774][389]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.11.03:601][427]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-12.11.04:421][464]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-12.11.04:569][471]LogBlueprintUserMessages: [MagnetBP_C_2] Magnet Active
+[2019.08.09-12.11.07:390][609]Cmd: restartlevel
+[2019.08.09-12.11.07:390][609]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.11.07:391][609]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.11.07:450][609]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.11.07:455][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004747s)
+[2019.08.09-12.11.07:456][609]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.11.07:456][609]LogPlayLevel: PIE: World Init took: (0.001316s)
+[2019.08.09-12.11.07:456][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.006431s)
+[2019.08.09-12.11.07:456][609]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.11.07:458][609]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.41.07
+[2019.08.09-12.11.07:459][609]LogWorld: Bringing up level for play took: 0.000936
+[2019.08.09-12.11.07:494][609]LogLoad: Took 0.102894 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.11.08:005][632]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.11.08:174][640]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.11.08:174][640]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-12.11.08:834][671]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-12.11.09:656][710]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-12.11.10:475][749]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.09-12.11.12:073][827]Cmd: restartlevel
+[2019.08.09-12.11.12:073][827]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.11.12:079][827]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.11.12:132][827]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.11.12:137][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004755s)
+[2019.08.09-12.11.12:138][827]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.11.12:138][827]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2019.08.09-12.11.12:138][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.005922s)
+[2019.08.09-12.11.12:138][827]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.11.12:139][827]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.41.12
+[2019.08.09-12.11.12:140][827]LogWorld: Bringing up level for play took: 0.000850
+[2019.08.09-12.11.12:180][827]LogLoad: Took 0.100804 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.11.13:302][883]Cmd: restartlevel
+[2019.08.09-12.11.13:302][883]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.11.13:302][883]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.11.13:360][883]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.11.13:365][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005345s)
+[2019.08.09-12.11.13:366][883]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.11.13:367][883]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2019.08.09-12.11.13:367][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.006682s)
+[2019.08.09-12.11.13:367][883]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.11.13:368][883]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.41.13
+[2019.08.09-12.11.13:368][883]LogWorld: Bringing up level for play took: 0.000864
+[2019.08.09-12.11.13:375][883]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.11.13:378][883]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-12.11.13:407][883]LogLoad: Took 0.104489 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.11.13:931][906]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.11.13:977][908]LogBlueprintUserMessages: [MagnetBP_C_2] Magnet Active
+[2019.08.09-12.11.15:297][972]Cmd: restartlevel
+[2019.08.09-12.11.15:298][972]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.11.15:299][972]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.11.15:372][972]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.11.15:377][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004089s)
+[2019.08.09-12.11.15:378][972]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.11.15:378][972]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2019.08.09-12.11.15:378][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.005736s)
+[2019.08.09-12.11.15:378][972]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.11.15:379][972]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.41.15
+[2019.08.09-12.11.15:380][972]LogWorld: Bringing up level for play took: 0.000921
+[2019.08.09-12.11.15:409][972]LogLoad: Took 0.109994 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.11.15:916][996]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.11.16:084][  5]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.11.16:756][ 40]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-12.11.16:924][ 48]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-12.11.17:566][ 81]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-12.11.18:365][122]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.09-12.11.19:179][163]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.09-12.11.19:330][171]LogBlueprintUserMessages: [MagnetBP_C_2] Magnet Active
+[2019.08.09-12.11.19:975][204]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.09-12.11.20:748][240]LogBlueprintUserMessages: [B_Master_Tile_C_6] 7
+[2019.08.09-12.11.21:353][269]LogBlueprintUserMessages: [MagnetBP_C_3] Magnet Active
+[2019.08.09-12.11.21:543][278]LogBlueprintUserMessages: [B_Master_Tile_C_7] 8
+[2019.08.09-12.11.22:307][314]LogBlueprintUserMessages: [B_Master_Tile_C_8] 9
+[2019.08.09-12.11.22:334][315]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.11.22:335][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-12.11.22:381][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.09-12.11.22:381][315]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.11.22:434][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-12.11.22:462][316]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.08.09-12.11.28:561][620]BlueprintLog: New page: Compile CoinBP
+[2019.08.09-12.11.29:876][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.09-12.11.29:982][657]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBP1DEF20B944C0A84DE794B7B5A83CEA3A.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.09-12.11.31:881][751]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.09-12.11.31:927][751]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.11.31:927][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.09-12.11.31:927][751]PIE: New page: PIE session: Level1 (Aug 9, 2019, 11:11:31 PM)
+[2019.08.09-12.11.31:927][751]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.11.31:932][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004640s)
+[2019.08.09-12.11.31:933][751]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.11.31:933][751]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2019.08.09-12.11.31:933][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.005904s)
+[2019.08.09-12.11.31:979][751]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.09-12.11.32:016][751]LogInit: FAudioDevice initialized.
+[2019.08.09-12.11.32:062][751]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.11.32:063][751]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.41.32
+[2019.08.09-12.11.32:063][751]LogWorld: Bringing up level for play took: 0.000844
+[2019.08.09-12.11.32:111][751]PIE: Play in editor start time for /Game/Runner/Levels/UEDPIE_0_Level1 -0.693
+[2019.08.09-12.11.32:112][751]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.11.33:828][826]Cmd: restartlevel
+[2019.08.09-12.11.33:829][826]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.11.33:829][826]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.11.33:895][826]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.11.33:902][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006692s)
+[2019.08.09-12.11.33:904][826]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.11.33:905][826]LogPlayLevel: PIE: World Init took: (0.002092s)
+[2019.08.09-12.11.33:905][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.009418s)
+[2019.08.09-12.11.33:905][826]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.11.33:907][826]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.09-17.41.33
+[2019.08.09-12.11.33:908][826]LogWorld: Bringing up level for play took: 0.001988
+[2019.08.09-12.11.33:923][826]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.11.33:968][826]LogLoad: Took 0.139332 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.11.34:452][847]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.11.34:626][855]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-12.11.35:278][885]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-12.11.35:350][888]LogBlueprintUserMessages: [MagnetBP_C_3] Magnet Active
+[2019.08.09-12.11.35:451][893]LogBlueprintUserMessages: [MagnetBP_C_2] Magnet Active
+[2019.08.09-12.11.36:100][923]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-12.11.36:131][924]LogBlueprintUserMessages: [MagnetBP_C_4] Magnet Active
+[2019.08.09-12.11.36:905][962]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.09-12.11.37:700][999]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.09-12.11.37:930][ 10]LogBlueprintUserMessages: [MagnetBP_C_5] Magnet Active
+[2019.08.09-12.11.38:493][ 36]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.09-12.11.39:301][ 74]LogBlueprintUserMessages: [B_Master_Tile_C_6] 7
+[2019.08.09-12.11.39:425][ 80]LogBlueprintUserMessages: [MagnetBP_C_6] Magnet Active
+[2019.08.09-12.11.40:063][110]LogBlueprintUserMessages: [B_Master_Tile_C_7] 8
+[2019.08.09-12.11.40:838][145]LogBlueprintUserMessages: [B_Master_Tile_C_8] 9
+[2019.08.09-12.11.40:872][147]LogBlueprintUserMessages: [MagnetBP_C_8] Magnet Active
+[2019.08.09-12.11.40:976][152]LogBlueprintUserMessages: [MagnetBP_C_7] Magnet Active
+[2019.08.09-12.11.41:599][180]LogBlueprintUserMessages: [B_Master_Tile_C_9] 10
+[2019.08.09-12.11.42:353][216]LogBlueprintUserMessages: [B_Master_Tile_C_10] 11
+[2019.08.09-12.11.42:412][219]LogBlueprintUserMessages: [MagnetBP_C_10] Magnet Active
+[2019.08.09-12.11.42:531][224]LogBlueprintUserMessages: [MagnetBP_C_9] Magnet Active
+[2019.08.09-12.11.43:089][251]LogBlueprintUserMessages: [B_Master_Tile_C_11] 12
+[2019.08.09-12.11.43:131][253]LogBlueprintUserMessages: [MagnetBP_C_11] Magnet Active
+[2019.08.09-12.11.43:829][286]LogBlueprintUserMessages: [B_Master_Tile_C_12] 13
+[2019.08.09-12.11.44:018][295]LogBlueprintUserMessages: [MagnetBP_C_12] Magnet Active
+[2019.08.09-12.11.44:564][321]LogBlueprintUserMessages: [B_Master_Tile_C_13] 14
+[2019.08.09-12.11.45:290][356]LogBlueprintUserMessages: [B_Master_Tile_C_14] 15
+[2019.08.09-12.11.46:005][390]LogBlueprintUserMessages: [B_Master_Tile_C_15] 16
+[2019.08.09-12.11.46:721][424]LogBlueprintUserMessages: [B_Master_Tile_C_16] 17
+[2019.08.09-12.11.47:427][457]LogBlueprintUserMessages: [B_Master_Tile_C_17] 18
+[2019.08.09-12.11.48:109][490]LogBlueprintUserMessages: [B_Master_Tile_C_18] 19
+[2019.08.09-12.11.48:800][522]LogBlueprintUserMessages: [B_Master_Tile_C_19] 20
+[2019.08.09-12.11.49:489][554]LogBlueprintUserMessages: [B_Master_Tile_C_20] 21
+[2019.08.09-12.11.49:617][560]LogBlueprintUserMessages: [MagnetBP_C_13] Magnet Active
+[2019.08.09-12.11.50:164][585]LogBlueprintUserMessages: [B_Master_Tile_C_21] 22
+[2019.08.09-12.11.50:685][610]LogBlueprintUserMessages: [MagnetBP_C_14] Magnet Active
+[2019.08.09-12.11.50:833][617]LogBlueprintUserMessages: [B_Master_Tile_C_22] 23
+[2019.08.09-12.11.51:511][649]LogBlueprintUserMessages: [B_Master_Tile_C_23] 24
+[2019.08.09-12.11.52:148][678]LogBlueprintUserMessages: [B_Master_Tile_C_24] 25
+[2019.08.09-12.11.52:193][680]LogBlueprintUserMessages: [MagnetBP_C_15] Magnet Active
+[2019.08.09-12.11.52:279][684]LogBlueprintUserMessages: [MagnetBP_C_16] Magnet Active
+[2019.08.09-12.11.52:810][709]LogBlueprintUserMessages: [B_Master_Tile_C_25] 26
+[2019.08.09-12.11.52:931][715]LogBlueprintUserMessages: [MagnetBP_C_17] Magnet Active
+[2019.08.09-12.11.53:458][740]LogBlueprintUserMessages: [B_Master_Tile_C_26] 27
+[2019.08.09-12.11.54:087][770]LogBlueprintUserMessages: [B_Master_Tile_C_27] 28
+[2019.08.09-12.11.54:730][801]LogBlueprintUserMessages: [B_Master_Tile_C_28] 29
+[2019.08.09-12.11.54:749][802]LogBlueprintUserMessages: [MagnetBP_C_18] Magnet Active
+[2019.08.09-12.11.55:357][831]LogBlueprintUserMessages: [B_Master_Tile_C_29] 30
+[2019.08.09-12.11.55:378][832]LogBlueprintUserMessages: [MagnetBP_C_19] Magnet Active
+[2019.08.09-12.11.55:966][860]LogBlueprintUserMessages: [B_Master_Tile_C_30] 31
+[2019.08.09-12.11.56:574][889]LogBlueprintUserMessages: [B_Master_Tile_C_31] 32
+[2019.08.09-12.11.56:694][895]LogBlueprintUserMessages: [MagnetBP_C_20] Magnet Active
+[2019.08.09-12.11.57:173][918]LogBlueprintUserMessages: [B_Master_Tile_C_32] 33
+[2019.08.09-12.11.57:787][948]LogBlueprintUserMessages: [B_Master_Tile_C_33] 34
+[2019.08.09-12.11.58:364][976]LogBlueprintUserMessages: [B_Master_Tile_C_34] 35
+[2019.08.09-12.11.58:962][  5]LogBlueprintUserMessages: [B_Master_Tile_C_35] 36
+[2019.08.09-12.11.59:566][ 34]LogBlueprintUserMessages: [B_Master_Tile_C_36] 37
+[2019.08.09-12.12.00:113][ 61]LogBlueprintUserMessages: [B_Master_Tile_C_37] 38
+[2019.08.09-12.12.00:155][ 63]LogBlueprintUserMessages: [MagnetBP_C_21] Magnet Active
+[2019.08.09-12.12.00:687][ 89]LogBlueprintUserMessages: [B_Master_Tile_C_38] 39
+[2019.08.09-12.12.01:257][117]LogBlueprintUserMessages: [B_Master_Tile_C_39] 40
+[2019.08.09-12.12.01:825][144]LogBlueprintUserMessages: [B_Master_Tile_C_40] 41
+[2019.08.09-12.12.02:376][171]LogBlueprintUserMessages: [B_Master_Tile_C_41] 42
+[2019.08.09-12.12.02:920][197]LogBlueprintUserMessages: [B_Master_Tile_C_42] 43
+[2019.08.09-12.12.03:336][217]LogBlueprintUserMessages: [MagnetBP_C_22] Magnet Active
+[2019.08.09-12.12.03:468][223]LogBlueprintUserMessages: [B_Master_Tile_C_43] 44
+[2019.08.09-12.12.04:010][249]LogBlueprintUserMessages: [B_Master_Tile_C_44] 45
+[2019.08.09-12.12.04:535][275]LogBlueprintUserMessages: [B_Master_Tile_C_45] 46
+[2019.08.09-12.12.05:072][301]LogBlueprintUserMessages: [B_Master_Tile_C_46] 47
+[2019.08.09-12.12.05:596][326]LogBlueprintUserMessages: [B_Master_Tile_C_47] 48
+[2019.08.09-12.12.06:114][350]LogBlueprintUserMessages: [B_Master_Tile_C_48] 49
+[2019.08.09-12.12.06:607][373]LogBlueprintUserMessages: [B_Master_Tile_C_49] 50
+[2019.08.09-12.12.06:632][374]LogBlueprintUserMessages: [MagnetBP_C_23] Magnet Active
+[2019.08.09-12.12.07:117][397]LogBlueprintUserMessages: [B_Master_Tile_C_50] 51
+[2019.08.09-12.12.07:615][421]LogBlueprintUserMessages: [B_Master_Tile_C_51] 52
+[2019.08.09-12.12.08:127][445]LogBlueprintUserMessages: [B_Master_Tile_C_52] 53
+[2019.08.09-12.12.08:150][446]LogBlueprintUserMessages: [MagnetBP_C_24] Magnet Active
+[2019.08.09-12.12.08:606][468]LogBlueprintUserMessages: [B_Master_Tile_C_53] 54
+[2019.08.09-12.12.08:643][470]LogBlueprintUserMessages: [MagnetBP_C_25] Magnet Active
+[2019.08.09-12.12.09:117][493]LogBlueprintUserMessages: [B_Master_Tile_C_54] 55
+[2019.08.09-12.12.09:185][496]LogBlueprintUserMessages: [MagnetBP_C_26] Magnet Active
+[2019.08.09-12.12.09:580][515]LogBlueprintUserMessages: [B_Master_Tile_C_55] 56
+[2019.08.09-12.12.10:069][538]LogBlueprintUserMessages: [B_Master_Tile_C_56] 57
+[2019.08.09-12.12.10:530][559]LogBlueprintUserMessages: [B_Master_Tile_C_57] 58
+[2019.08.09-12.12.10:993][581]LogBlueprintUserMessages: [B_Master_Tile_C_58] 59
+[2019.08.09-12.12.11:473][603]LogBlueprintUserMessages: [B_Master_Tile_C_59] 60
+[2019.08.09-12.12.11:932][624]LogBlueprintUserMessages: [B_Master_Tile_C_60] 61
+[2019.08.09-12.12.12:373][644]LogBlueprintUserMessages: [B_Master_Tile_C_61] 62
+[2019.08.09-12.12.12:832][663]LogBlueprintUserMessages: [B_Master_Tile_C_62] 63
+[2019.08.09-12.12.12:918][667]LogBlueprintUserMessages: [MagnetBP_C_28] Magnet Active
+[2019.08.09-12.12.13:093][675]LogBlueprintUserMessages: [MagnetBP_C_27] Magnet Active
+[2019.08.09-12.12.13:272][683]LogBlueprintUserMessages: [B_Master_Tile_C_63] 64
+[2019.08.09-12.12.13:705][703]LogBlueprintUserMessages: [B_Master_Tile_C_64] 65
+[2019.08.09-12.12.14:155][724]LogBlueprintUserMessages: [B_Master_Tile_C_65] 66
+[2019.08.09-12.12.14:255][729]LogBlueprintUserMessages: [MagnetBP_C_29] Magnet Active
+[2019.08.09-12.12.14:592][744]LogBlueprintUserMessages: [B_Master_Tile_C_66] 67
+[2019.08.09-12.12.15:018][764]LogBlueprintUserMessages: [B_Master_Tile_C_67] 68
+[2019.08.09-12.12.15:063][766]LogBlueprintUserMessages: [MagnetBP_C_30] Magnet Active
+[2019.08.09-12.12.15:441][784]LogBlueprintUserMessages: [B_Master_Tile_C_68] 69
+[2019.08.09-12.12.15:847][803]LogBlueprintUserMessages: [B_Master_Tile_C_69] 70
+[2019.08.09-12.12.15:883][805]LogBlueprintUserMessages: [MagnetBP_C_32] Magnet Active
+[2019.08.09-12.12.16:076][814]LogBlueprintUserMessages: [MagnetBP_C_31] Magnet Active
+[2019.08.09-12.12.16:270][823]LogBlueprintUserMessages: [B_Master_Tile_C_70] 71
+[2019.08.09-12.12.16:691][842]LogBlueprintUserMessages: [B_Master_Tile_C_71] 72
+[2019.08.09-12.12.16:711][843]LogBlueprintUserMessages: [MagnetBP_C_33] Magnet Active
+[2019.08.09-12.12.17:093][861]LogBlueprintUserMessages: [B_Master_Tile_C_72] 73
+[2019.08.09-12.12.17:486][879]LogBlueprintUserMessages: [B_Master_Tile_C_73] 74
+[2019.08.09-12.12.17:512][880]LogBlueprintUserMessages: [MagnetBP_C_34] Magnet Active
+[2019.08.09-12.12.17:887][897]LogBlueprintUserMessages: [B_Master_Tile_C_74] 75
+[2019.08.09-12.12.18:291][916]LogBlueprintUserMessages: [B_Master_Tile_C_75] 76
+[2019.08.09-12.12.18:576][929]LogBlueprintUserMessages: [MagnetBP_C_35] Magnet Active
+[2019.08.09-12.12.18:685][934]LogBlueprintUserMessages: [B_Master_Tile_C_76] 77
+[2019.08.09-12.12.19:058][951]LogBlueprintUserMessages: [B_Master_Tile_C_77] 78
+[2019.08.09-12.12.19:453][969]LogBlueprintUserMessages: [B_Master_Tile_C_78] 79
+[2019.08.09-12.12.19:469][970]LogBlueprintUserMessages: [MagnetBP_C_36] Magnet Active
+[2019.08.09-12.12.19:823][986]LogBlueprintUserMessages: [B_Master_Tile_C_79] 80
+[2019.08.09-12.12.20:200][  3]LogBlueprintUserMessages: [B_Master_Tile_C_80] 81
+[2019.08.09-12.12.20:220][  4]LogBlueprintUserMessages: [MagnetBP_C_37] Magnet Active
+[2019.08.09-12.12.20:585][ 22]LogBlueprintUserMessages: [B_Master_Tile_C_81] 82
+[2019.08.09-12.12.20:956][ 39]LogBlueprintUserMessages: [B_Master_Tile_C_82] 83
+[2019.08.09-12.12.21:015][ 42]LogBlueprintUserMessages: [MagnetBP_C_38] Magnet Active
+[2019.08.09-12.12.21:317][ 57]LogBlueprintUserMessages: [B_Master_Tile_C_83] 84
+[2019.08.09-12.12.21:670][ 75]LogBlueprintUserMessages: [B_Master_Tile_C_84] 85
+[2019.08.09-12.12.22:031][ 93]LogBlueprintUserMessages: [B_Master_Tile_C_85] 86
+[2019.08.09-12.12.22:052][ 94]LogBlueprintUserMessages: [MagnetBP_C_39] Magnet Active
+[2019.08.09-12.12.22:381][110]LogBlueprintUserMessages: [B_Master_Tile_C_86] 87
+[2019.08.09-12.12.22:729][128]LogBlueprintUserMessages: [B_Master_Tile_C_87] 88
+[2019.08.09-12.12.22:749][129]LogBlueprintUserMessages: [MagnetBP_C_41] Magnet Active
+[2019.08.09-12.12.22:790][131]LogBlueprintUserMessages: [MagnetBP_C_40] Magnet Active
+[2019.08.09-12.12.23:086][145]LogBlueprintUserMessages: [B_Master_Tile_C_88] 89
+[2019.08.09-12.12.23:107][146]LogBlueprintUserMessages: [MagnetBP_C_42] Magnet Active
+[2019.08.09-12.12.23:429][162]LogBlueprintUserMessages: [B_Master_Tile_C_89] 90
+[2019.08.09-12.12.23:488][165]LogBlueprintUserMessages: [MagnetBP_C_43] Magnet Active
+[2019.08.09-12.12.23:773][179]LogBlueprintUserMessages: [B_Master_Tile_C_90] 91
+[2019.08.09-12.12.23:798][180]LogBlueprintUserMessages: [MagnetBP_C_44] Magnet Active
+[2019.08.09-12.12.24:100][195]LogBlueprintUserMessages: [B_Master_Tile_C_91] 92
+[2019.08.09-12.12.24:440][212]LogBlueprintUserMessages: [B_Master_Tile_C_92] 93
+[2019.08.09-12.12.24:781][229]LogBlueprintUserMessages: [B_Master_Tile_C_93] 94
+[2019.08.09-12.12.25:106][245]LogBlueprintUserMessages: [B_Master_Tile_C_94] 95
+[2019.08.09-12.12.25:429][261]LogBlueprintUserMessages: [B_Master_Tile_C_95] 96
+[2019.08.09-12.12.25:781][278]LogBlueprintUserMessages: [B_Master_Tile_C_96] 97
+[2019.08.09-12.12.26:114][293]LogBlueprintUserMessages: [B_Master_Tile_C_97] 98
+[2019.08.09-12.12.26:194][296]LogBlueprintUserMessages: [MagnetBP_C_45] Magnet Active
+[2019.08.09-12.12.26:442][307]LogBlueprintUserMessages: [B_Master_Tile_C_98] 99
+[2019.08.09-12.12.27:949][381]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.12.27:950][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-12.12.28:010][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.09-12.12.28:011][381]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.12.28:065][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-12.12.28:103][382]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.08.09-12.12.45:997][902]LogHttp: Warning: 0000023419446980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-12.12.45:997][902]LogHttp: Warning: 0000023419446980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-12.12.45:997][902]LogHttp: Warning: 0000023419446980: libcurl info message cache 1 (Closing connection 18)
+[2019.08.09-12.12.45:997][902]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-12.14.29:442][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.09-12.14.38:280][152]BlueprintLog: New page: Compile CoinBP
+[2019.08.09-12.14.39:251][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.09-12.14.39:359][171]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBP7A9CED744AB16404201288A06AB5EC2F.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.09-12.14.46:055][523]LogHttp: Warning: 0000023406EA1300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-12.14.46:055][523]LogHttp: Warning: 0000023406EA1300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-12.14.46:055][523]LogHttp: Warning: 0000023406EA1300: libcurl info message cache 1 (Closing connection 19)
+[2019.08.09-12.14.46:070][524]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-12.15.42:187][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.09-12.15.42:285][277]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBPF2A1802D455D25930EAA4FBC84063481.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.09-12.16.46:107][177]LogHttp: Warning: 000002340623A5C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-12.16.46:107][177]LogHttp: Warning: 000002340623A5C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-12.16.46:107][177]LogHttp: Warning: 000002340623A5C0: libcurl info message cache 1 (Closing connection 20)
+[2019.08.09-12.16.46:117][178]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-12.18.46:147][ 61]LogHttp: Warning: 0000023406D31440: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-12.18.46:147][ 61]LogHttp: Warning: 0000023406D31440: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-12.18.46:147][ 61]LogHttp: Warning: 0000023406D31440: libcurl info message cache 1 (Closing connection 21)
+[2019.08.09-12.18.46:163][ 62]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-12.20.46:174][655]LogHttp: Warning: 000002340746C680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-12.20.46:174][655]LogHttp: Warning: 000002340746C680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-12.20.46:174][655]LogHttp: Warning: 000002340746C680: libcurl info message cache 1 (Closing connection 22)
+[2019.08.09-12.20.46:183][656]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-12.22.46:738][939]LogHttp: Warning: 000002340746D1C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-12.22.46:738][939]LogHttp: Warning: 000002340746D1C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-12.22.46:738][939]LogHttp: Warning: 000002340746D1C0: libcurl info message cache 1 (Closing connection 23)
+[2019.08.09-12.22.47:070][940]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-12.24.18:145][129]BlueprintLog: New page: Compile CoinBP
+[2019.08.09-12.24.19:037][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.09-12.24.19:106][177]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBP3AC7A81B4483DB22AAE6A9BC3F94CA77.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.09-12.24.45:572][298]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.09-12.24.45:610][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.24.45:610][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.09-12.24.45:610][298]PIE: New page: PIE session: Level1 (Aug 9, 2019, 11:24:45 PM)
+[2019.08.09-12.24.45:610][298]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.24.45:616][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005661s)
+[2019.08.09-12.24.45:617][298]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.24.45:617][298]LogPlayLevel: PIE: World Init took: (0.001374s)
+[2019.08.09-12.24.45:618][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.007296s)
+[2019.08.09-12.24.45:675][298]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.09-12.24.45:699][298]LogInit: FAudioDevice initialized.
+[2019.08.09-12.24.45:734][298]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.24.45:735][298]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.08.09-17.54.45
+[2019.08.09-12.24.45:735][298]LogWorld: Bringing up level for play took: 0.000767
+[2019.08.09-12.24.45:753][298]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.24.45:754][298]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-12.24.45:774][298]PIE: Play in editor start time for /Game/Runner/Levels/UEDPIE_0_Level1 0.969
+[2019.08.09-12.24.45:774][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.24.46:189][318]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.24.47:017][380]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-12.24.47:119][388]LogHttp: Warning: 0000023407B482C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-12.24.47:119][388]LogHttp: Warning: 0000023407B482C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-12.24.47:119][388]LogHttp: Warning: 0000023407B482C0: libcurl info message cache 1 (Closing connection 24)
+[2019.08.09-12.24.47:119][388]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-12.24.48:711][505]Cmd: restartlevel
+[2019.08.09-12.24.48:712][505]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.24.48:723][505]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.24.48:767][505]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.24.48:771][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003519s)
+[2019.08.09-12.24.48:771][505]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.24.48:772][505]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2019.08.09-12.24.48:772][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.004830s)
+[2019.08.09-12.24.48:772][505]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.24.48:773][505]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.08.09-17.54.48
+[2019.08.09-12.24.48:774][505]LogWorld: Bringing up level for play took: 0.000908
+[2019.08.09-12.24.48:791][505]LogLoad: Took 0.067978 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.24.49:311][543]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.24.49:363][547]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-12.24.49:483][556]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.24.50:149][606]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-12.24.50:204][610]LogBlueprintUserMessages: [MagnetBP_C_2] Magnet Active
+[2019.08.09-12.24.50:956][660]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-12.24.53:615][851]Cmd: restartlevel
+[2019.08.09-12.24.53:616][851]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.24.53:619][851]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.24.53:695][851]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.24.53:699][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004348s)
+[2019.08.09-12.24.53:700][851]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.24.53:700][851]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2019.08.09-12.24.53:700][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.005583s)
+[2019.08.09-12.24.53:700][851]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.24.53:702][851]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.08.09-17.54.53
+[2019.08.09-12.24.53:703][851]LogWorld: Bringing up level for play took: 0.000947
+[2019.08.09-12.24.53:709][851]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.24.53:741][851]LogLoad: Took 0.121871 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.24.54:216][877]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.24.54:263][880]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-12.24.54:378][887]LogBlueprintUserMessages: [MagnetBP_C_2] Magnet Active
+[2019.08.09-12.24.55:046][928]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-12.24.55:206][938]LogBlueprintUserMessages: [MagnetBP_C_3] Magnet Active
+[2019.08.09-12.24.55:207][938]LogBlueprintUserMessages: [MagnetBP_C_4] Magnet Active
+[2019.08.09-12.24.55:856][978]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-12.24.56:666][ 28]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.09-12.24.57:465][ 75]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.09-12.24.58:258][122]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.09-12.24.59:046][169]LogBlueprintUserMessages: [B_Master_Tile_C_6] 7
+[2019.08.09-12.24.59:824][218]LogBlueprintUserMessages: [B_Master_Tile_C_7] 8
+[2019.08.09-12.24.59:986][228]LogBlueprintUserMessages: [MagnetBP_C_5] Magnet Active
+[2019.08.09-12.25.00:585][266]LogBlueprintUserMessages: [B_Master_Tile_C_8] 9
+[2019.08.09-12.25.01:354][314]LogBlueprintUserMessages: [B_Master_Tile_C_9] 10
+[2019.08.09-12.25.01:500][323]LogBlueprintUserMessages: [MagnetBP_C_6] Magnet Active
+[2019.08.09-12.25.01:966][352]LogBlueprintUserMessages: [MagnetBP_C_7] Magnet Active
+[2019.08.09-12.25.02:120][361]LogBlueprintUserMessages: [B_Master_Tile_C_10] 11
+[2019.08.09-12.25.02:852][407]LogBlueprintUserMessages: [B_Master_Tile_C_11] 12
+[2019.08.09-12.25.03:005][417]LogBlueprintUserMessages: [MagnetBP_C_8] Magnet Active
+[2019.08.09-12.25.03:606][454]LogBlueprintUserMessages: [B_Master_Tile_C_12] 13
+[2019.08.09-12.25.04:334][499]LogBlueprintUserMessages: [B_Master_Tile_C_13] 14
+[2019.08.09-12.25.04:503][510]LogBlueprintUserMessages: [MagnetBP_C_9] Magnet Active
+[2019.08.09-12.25.05:063][545]LogBlueprintUserMessages: [B_Master_Tile_C_14] 15
+[2019.08.09-12.25.05:781][586]LogBlueprintUserMessages: [B_Master_Tile_C_15] 16
+[2019.08.09-12.25.06:495][631]LogBlueprintUserMessages: [B_Master_Tile_C_16] 17
+[2019.08.09-12.25.07:180][673]LogBlueprintUserMessages: [B_Master_Tile_C_17] 18
+[2019.08.09-12.25.07:734][707]LogBlueprintUserMessages: [MagnetBP_C_10] Magnet Active
+[2019.08.09-12.25.07:888][716]LogBlueprintUserMessages: [B_Master_Tile_C_18] 19
+[2019.08.09-12.25.08:574][758]LogBlueprintUserMessages: [B_Master_Tile_C_19] 20
+[2019.08.09-12.25.11:230][916]Cmd: restartlevel
+[2019.08.09-12.25.11:231][916]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.25.11:234][916]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.25.11:294][916]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.25.11:299][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004975s)
+[2019.08.09-12.25.11:300][916]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.25.11:301][916]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2019.08.09-12.25.11:301][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.006470s)
+[2019.08.09-12.25.11:301][916]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.25.11:303][916]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.08.09-17.55.11
+[2019.08.09-12.25.11:304][916]LogWorld: Bringing up level for play took: 0.001416
+[2019.08.09-12.25.11:339][916]LogLoad: Took 0.105184 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.25.11:866][945]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.25.12:680][994]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-12.25.13:497][ 43]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-12.25.14:311][ 92]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.09-12.25.15:116][139]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.09-12.25.15:901][185]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.09-12.25.15:946][188]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.25.16:689][231]LogBlueprintUserMessages: [B_Master_Tile_C_6] 7
+[2019.08.09-12.25.17:467][275]LogBlueprintUserMessages: [B_Master_Tile_C_7] 8
+[2019.08.09-12.25.17:627][282]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-12.25.17:627][282]LogBlueprintUserMessages: [MagnetBP_C_2] Magnet Active
+[2019.08.09-12.25.18:238][317]LogBlueprintUserMessages: [B_Master_Tile_C_8] 9
+[2019.08.09-12.25.18:387][326]LogBlueprintUserMessages: [MagnetBP_C_3] Magnet Active
+[2019.08.09-12.25.18:993][362]LogBlueprintUserMessages: [B_Master_Tile_C_9] 10
+[2019.08.09-12.25.19:054][366]LogBlueprintUserMessages: [MagnetBP_C_4] Magnet Active
+[2019.08.09-12.25.19:753][408]LogBlueprintUserMessages: [B_Master_Tile_C_10] 11
+[2019.08.09-12.25.19:797][411]LogBlueprintUserMessages: [MagnetBP_C_5] Magnet Active
+[2019.08.09-12.25.20:497][452]LogBlueprintUserMessages: [B_Master_Tile_C_11] 12
+[2019.08.09-12.25.20:549][455]LogBlueprintUserMessages: [MagnetBP_C_6] Magnet Active
+[2019.08.09-12.25.21:228][497]LogBlueprintUserMessages: [B_Master_Tile_C_12] 13
+[2019.08.09-12.25.21:275][500]LogBlueprintUserMessages: [MagnetBP_C_7] Magnet Active
+[2019.08.09-12.25.21:970][543]LogBlueprintUserMessages: [B_Master_Tile_C_13] 14
+[2019.08.09-12.25.22:689][588]LogBlueprintUserMessages: [B_Master_Tile_C_14] 15
+[2019.08.09-12.25.23:420][633]LogBlueprintUserMessages: [B_Master_Tile_C_15] 16
+[2019.08.09-12.25.23:551][641]LogBlueprintUserMessages: [MagnetBP_C_9] Magnet Active
+[2019.08.09-12.25.23:957][666]LogBlueprintUserMessages: [MagnetBP_C_8] Magnet Active
+[2019.08.09-12.25.24:119][676]LogBlueprintUserMessages: [B_Master_Tile_C_16] 17
+[2019.08.09-12.25.24:818][718]LogBlueprintUserMessages: [B_Master_Tile_C_17] 18
+[2019.08.09-12.25.25:519][761]LogBlueprintUserMessages: [B_Master_Tile_C_18] 19
+[2019.08.09-12.25.26:213][802]LogBlueprintUserMessages: [B_Master_Tile_C_19] 20
+[2019.08.09-12.25.26:885][843]LogBlueprintUserMessages: [B_Master_Tile_C_20] 21
+[2019.08.09-12.25.27:570][884]LogBlueprintUserMessages: [B_Master_Tile_C_21] 22
+[2019.08.09-12.25.28:090][916]LogBlueprintUserMessages: [MagnetBP_C_10] Magnet Active
+[2019.08.09-12.25.28:246][925]LogBlueprintUserMessages: [B_Master_Tile_C_22] 23
+[2019.08.09-12.25.28:906][965]LogBlueprintUserMessages: [B_Master_Tile_C_23] 24
+[2019.08.09-12.25.29:025][972]LogBlueprintUserMessages: [MagnetBP_C_11] Magnet Active
+[2019.08.09-12.25.29:576][  3]LogBlueprintUserMessages: [B_Master_Tile_C_24] 25
+[2019.08.09-12.25.29:697][ 10]LogBlueprintUserMessages: [MagnetBP_C_12] Magnet Active
+[2019.08.09-12.25.30:209][ 41]LogBlueprintUserMessages: [B_Master_Tile_C_25] 26
+[2019.08.09-12.25.30:253][ 44]LogBlueprintUserMessages: [MagnetBP_C_13] Magnet Active
+[2019.08.09-12.25.30:857][ 81]LogBlueprintUserMessages: [B_Master_Tile_C_26] 27
+[2019.08.09-12.25.31:480][112]LogBlueprintUserMessages: [B_Master_Tile_C_27] 28
+[2019.08.09-12.25.32:124][149]LogBlueprintUserMessages: [B_Master_Tile_C_28] 29
+[2019.08.09-12.25.32:744][186]LogBlueprintUserMessages: [B_Master_Tile_C_29] 30
+[2019.08.09-12.25.33:363][223]LogBlueprintUserMessages: [B_Master_Tile_C_30] 31
+[2019.08.09-12.25.33:837][252]LogBlueprintUserMessages: [MagnetBP_C_14] Magnet Active
+[2019.08.09-12.25.33:972][260]LogBlueprintUserMessages: [B_Master_Tile_C_31] 32
+[2019.08.09-12.25.34:582][297]LogBlueprintUserMessages: [B_Master_Tile_C_32] 33
+[2019.08.09-12.25.35:198][332]LogBlueprintUserMessages: [B_Master_Tile_C_33] 34
+[2019.08.09-12.25.35:769][367]LogBlueprintUserMessages: [B_Master_Tile_C_34] 35
+[2019.08.09-12.25.36:366][403]LogBlueprintUserMessages: [B_Master_Tile_C_35] 36
+[2019.08.09-12.25.36:949][437]LogBlueprintUserMessages: [B_Master_Tile_C_36] 37
+[2019.08.09-12.25.36:985][439]LogBlueprintUserMessages: [MagnetBP_C_16] Magnet Active
+[2019.08.09-12.25.37:387][464]LogBlueprintUserMessages: [MagnetBP_C_15] Magnet Active
+[2019.08.09-12.25.37:519][472]LogBlueprintUserMessages: [B_Master_Tile_C_37] 38
+[2019.08.09-12.25.38:092][507]LogBlueprintUserMessages: [B_Master_Tile_C_38] 39
+[2019.08.09-12.25.38:123][509]LogBlueprintUserMessages: [MagnetBP_C_17] Magnet Active
+[2019.08.09-12.25.38:655][541]LogBlueprintUserMessages: [B_Master_Tile_C_39] 40
+[2019.08.09-12.25.38:685][542]LogBlueprintUserMessages: [MagnetBP_C_18] Magnet Active
+[2019.08.09-12.25.39:228][572]LogBlueprintUserMessages: [B_Master_Tile_C_40] 41
+[2019.08.09-12.25.39:794][603]LogBlueprintUserMessages: [B_Master_Tile_C_41] 42
+[2019.08.09-12.25.40:317][635]LogBlueprintUserMessages: [B_Master_Tile_C_42] 43
+[2019.08.09-12.25.40:535][648]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.25.40:536][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-12.25.40:593][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.09-12.25.40:593][648]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.25.40:669][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-12.25.40:714][649]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.08.09-12.26.00:859][997]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.09-12.26.00:893][997]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.26.00:893][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.09-12.26.00:894][997]PIE: New page: PIE session: Level1 (Aug 9, 2019, 11:26:00 PM)
+[2019.08.09-12.26.00:894][997]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.26.00:896][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002664s)
+[2019.08.09-12.26.00:897][997]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.26.00:897][997]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2019.08.09-12.26.00:897][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.003661s)
+[2019.08.09-12.26.00:941][997]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.09-12.26.00:958][997]LogInit: FAudioDevice initialized.
+[2019.08.09-12.26.00:997][997]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.26.00:998][997]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.08.09-17.56.00
+[2019.08.09-12.26.00:999][997]LogWorld: Bringing up level for play took: 0.000911
+[2019.08.09-12.26.01:025][997]PIE: Play in editor start time for /Game/Runner/Levels/UEDPIE_0_Level1 0.221
+[2019.08.09-12.26.01:026][997]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.26.01:455][ 28]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.26.02:292][ 92]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-12.26.03:106][154]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-12.26.05:136][293]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.26.05:136][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-12.26.05:175][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.09-12.26.05:176][293]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.26.05:210][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-12.26.05:237][295]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.08.09-12.26.47:148][644]LogHttp: Warning: 000002341C9C3380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-12.26.47:148][644]LogHttp: Warning: 000002341C9C3380: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-12.26.47:148][644]LogHttp: Warning: 000002341C9C3380: libcurl info message cache 1 (Closing connection 25)
+[2019.08.09-12.26.47:148][644]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-12.27.17:220][415]BlueprintLog: New page: Compile CoinBP
+[2019.08.09-12.27.18:253][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.09-12.27.18:367][440]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBP960FD6844EF3EB7FE85B9CB588685A33.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.09-12.28.48:753][930]LogHttp: Warning: 000002341C9C1F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-12.28.48:754][930]LogHttp: Warning: 000002341C9C1F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-12.28.48:754][930]LogHttp: Warning: 000002341C9C1F80: libcurl info message cache 1 (Closing connection 26)
+[2019.08.09-12.28.48:754][930]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-12.30.49:197][909]LogHttp: Warning: 0000023433F4DA80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-12.30.49:197][909]LogHttp: Warning: 0000023433F4DA80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-12.30.49:197][909]LogHttp: Warning: 0000023433F4DA80: libcurl info message cache 1 (Closing connection 27)
+[2019.08.09-12.30.49:539][910]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-12.31.00:842][ 85]BlueprintLog: New page: Compile CoinBP
+[2019.08.09-12.31.01:683][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.09-12.31.01:765][124]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBPFF7FC658410BE297173BCCAC5E718145.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.09-12.31.03:281][237]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.09-12.31.03:308][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.31.03:308][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.09-12.31.03:308][237]PIE: New page: PIE session: Level1 (Aug 9, 2019, 11:31:03 PM)
+[2019.08.09-12.31.03:308][237]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.31.03:312][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003196s)
+[2019.08.09-12.31.03:313][237]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.31.03:313][237]LogPlayLevel: PIE: World Init took: (0.001639s)
+[2019.08.09-12.31.03:314][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.005082s)
+[2019.08.09-12.31.03:355][237]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.09-12.31.03:375][237]LogInit: FAudioDevice initialized.
+[2019.08.09-12.31.03:413][237]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.31.03:414][237]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.08.09-18.01.03
+[2019.08.09-12.31.03:414][237]LogWorld: Bringing up level for play took: 0.000591
+[2019.08.09-12.31.03:434][237]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.31.03:450][237]PIE: Play in editor start time for /Game/Runner/Levels/UEDPIE_0_Level1 0.645
+[2019.08.09-12.31.03:450][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.31.03:877][267]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.31.05:292][359]Cmd: restartlevel
+[2019.08.09-12.31.05:292][359]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.31.05:297][359]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.31.05:348][359]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.31.05:352][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003723s)
+[2019.08.09-12.31.05:353][359]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.31.05:353][359]LogPlayLevel: PIE: World Init took: (0.001112s)
+[2019.08.09-12.31.05:353][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.005077s)
+[2019.08.09-12.31.05:354][359]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.31.05:356][359]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.08.09-18.01.05
+[2019.08.09-12.31.05:356][359]LogWorld: Bringing up level for play took: 0.001462
+[2019.08.09-12.31.05:379][359]LogLoad: Took 0.082233 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.31.05:891][397]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.31.06:727][461]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-12.31.06:796][467]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.31.07:530][524]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-12.31.07:694][536]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-12.31.08:353][587]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.09-12.31.08:393][590]LogBlueprintUserMessages: [MagnetBP_C_2] Magnet Active
+[2019.08.09-12.31.09:153][649]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.09-12.31.11:199][778]Cmd: restartlevel
+[2019.08.09-12.31.11:200][778]LogNet: Browse: /Game/Runner/Levels/Level1?restart
+[2019.08.09-12.31.11:202][778]LogLoad: LoadMap: /Game/Runner/Levels/Level1
+[2019.08.09-12.31.11:264][778]LogPlayLevel: Creating play world package: /Game/Runner/Levels/UEDPIE_0_Level1
+[2019.08.09-12.31.11:269][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004878s)
+[2019.08.09-12.31.11:270][778]LogAIModule: Creating AISystem for world Level1
+[2019.08.09-12.31.11:270][778]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2019.08.09-12.31.11:271][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Runner/Levels/Level1.Level1 to /Game/Runner/Levels/UEDPIE_0_Level1.Level1 (0.006087s)
+[2019.08.09-12.31.11:271][778]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.09-12.31.11:272][778]LogWorld: Bringing World /Game/Runner/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.08.09-18.01.11
+[2019.08.09-12.31.11:273][778]LogWorld: Bringing up level for play took: 0.000927
+[2019.08.09-12.31.11:305][778]LogLoad: Took 0.102885 seconds to LoadMap(/Game/Runner/Levels/UEDPIE_0_Level1)
+[2019.08.09-12.31.11:806][808]LogBlueprintUserMessages: [B_Master_Tile_C_0] 1
+[2019.08.09-12.31.12:624][859]LogBlueprintUserMessages: [B_Master_Tile_C_1] 2
+[2019.08.09-12.31.13:454][911]LogBlueprintUserMessages: [B_Master_Tile_C_2] 3
+[2019.08.09-12.31.13:490][913]LogBlueprintUserMessages: [MagnetBP_C_1] Magnet Active
+[2019.08.09-12.31.14:068][949]LogBlueprintUserMessages: [MagnetBP_C_0] Magnet Active
+[2019.08.09-12.31.14:259][961]LogBlueprintUserMessages: [B_Master_Tile_C_3] 4
+[2019.08.09-12.31.15:064][ 12]LogBlueprintUserMessages: [B_Master_Tile_C_4] 5
+[2019.08.09-12.31.15:840][ 61]LogBlueprintUserMessages: [B_Master_Tile_C_5] 6
+[2019.08.09-12.31.16:647][112]LogBlueprintUserMessages: [B_Master_Tile_C_6] 7
+[2019.08.09-12.31.17:423][160]LogBlueprintUserMessages: [B_Master_Tile_C_7] 8
+[2019.08.09-12.31.18:179][207]LogBlueprintUserMessages: [B_Master_Tile_C_8] 9
+[2019.08.09-12.31.18:946][250]LogBlueprintUserMessages: [B_Master_Tile_C_9] 10
+[2019.08.09-12.31.19:696][294]LogBlueprintUserMessages: [B_Master_Tile_C_10] 11
+[2019.08.09-12.31.19:842][303]LogBlueprintUserMessages: [MagnetBP_C_2] Magnet Active
+[2019.08.09-12.31.20:443][341]LogBlueprintUserMessages: [B_Master_Tile_C_11] 12
+[2019.08.09-12.31.21:197][387]LogBlueprintUserMessages: [B_Master_Tile_C_12] 13
+[2019.08.09-12.31.21:912][433]LogBlueprintUserMessages: [B_Master_Tile_C_13] 14
+[2019.08.09-12.31.22:648][477]LogBlueprintUserMessages: [B_Master_Tile_C_14] 15
+[2019.08.09-12.31.22:678][479]LogBlueprintUserMessages: [MagnetBP_C_3] Magnet Active
+[2019.08.09-12.31.23:359][519]LogBlueprintUserMessages: [B_Master_Tile_C_15] 16
+[2019.08.09-12.31.24:070][562]LogBlueprintUserMessages: [B_Master_Tile_C_16] 17
+[2019.08.09-12.31.24:776][603]LogBlueprintUserMessages: [B_Master_Tile_C_17] 18
+[2019.08.09-12.31.25:475][647]LogBlueprintUserMessages: [B_Master_Tile_C_18] 19
+[2019.08.09-12.31.26:162][688]LogBlueprintUserMessages: [B_Master_Tile_C_19] 20
+[2019.08.09-12.31.26:191][690]LogBlueprintUserMessages: [MagnetBP_C_4] Magnet Active
+[2019.08.09-12.31.26:842][727]LogBlueprintUserMessages: [B_Master_Tile_C_20] 21
+[2019.08.09-12.31.26:970][735]LogBlueprintUserMessages: [MagnetBP_C_5] Magnet Active
+[2019.08.09-12.31.27:522][769]LogBlueprintUserMessages: [B_Master_Tile_C_21] 22
+[2019.08.09-12.31.27:570][772]LogBlueprintUserMessages: [MagnetBP_C_6] Magnet Active
+[2019.08.09-12.31.28:067][802]LogBlueprintUserMessages: [MagnetBP_C_7] Magnet Active
+[2019.08.09-12.31.28:191][809]LogBlueprintUserMessages: [B_Master_Tile_C_22] 23
+[2019.08.09-12.31.28:858][851]LogBlueprintUserMessages: [B_Master_Tile_C_23] 24
+[2019.08.09-12.31.29:525][890]LogBlueprintUserMessages: [B_Master_Tile_C_24] 25
+[2019.08.09-12.31.30:159][927]LogBlueprintUserMessages: [B_Master_Tile_C_25] 26
+[2019.08.09-12.31.30:794][965]LogBlueprintUserMessages: [B_Master_Tile_C_26] 27
+[2019.08.09-12.31.30:853][969]LogBlueprintUserMessages: [MagnetBP_C_8] Magnet Active
+[2019.08.09-12.31.30:935][974]LogBlueprintUserMessages: [MagnetBP_C_9] Magnet Active
+[2019.08.09-12.31.31:438][  4]LogBlueprintUserMessages: [B_Master_Tile_C_27] 28
+[2019.08.09-12.31.32:066][ 42]LogBlueprintUserMessages: [B_Master_Tile_C_28] 29
+[2019.08.09-12.31.32:548][ 71]LogBlueprintUserMessages: [MagnetBP_C_10] Magnet Active
+[2019.08.09-12.31.32:692][ 79]LogBlueprintUserMessages: [B_Master_Tile_C_29] 30
+[2019.08.09-12.31.32:724][ 81]LogBlueprintUserMessages: [MagnetBP_C_13] Magnet Active
+[2019.08.09-12.31.32:808][ 86]LogBlueprintUserMessages: [MagnetBP_C_12] Magnet Active
+[2019.08.09-12.31.33:169][106]LogBlueprintUserMessages: [MagnetBP_C_11] Magnet Active
+[2019.08.09-12.31.33:312][114]LogBlueprintUserMessages: [B_Master_Tile_C_30] 31
+[2019.08.09-12.31.33:919][151]LogBlueprintUserMessages: [B_Master_Tile_C_31] 32
+[2019.08.09-12.31.34:528][187]LogBlueprintUserMessages: [B_Master_Tile_C_32] 33
+[2019.08.09-12.31.34:563][189]LogBlueprintUserMessages: [MagnetBP_C_15] Magnet Active
+[2019.08.09-12.31.34:998][215]LogBlueprintUserMessages: [MagnetBP_C_14] Magnet Active
+[2019.08.09-12.31.35:137][223]LogBlueprintUserMessages: [B_Master_Tile_C_33] 34
+[2019.08.09-12.31.35:176][225]LogBlueprintUserMessages: [MagnetBP_C_17] Magnet Active
+[2019.08.09-12.31.35:242][228]LogBlueprintUserMessages: [MagnetBP_C_16] Magnet Active
+[2019.08.09-12.31.35:730][258]LogBlueprintUserMessages: [B_Master_Tile_C_34] 35
+[2019.08.09-12.31.36:318][293]LogBlueprintUserMessages: [B_Master_Tile_C_35] 36
+[2019.08.09-12.31.36:895][326]LogBlueprintUserMessages: [B_Master_Tile_C_36] 37
+[2019.08.09-12.31.37:352][354]LogBlueprintUserMessages: [MagnetBP_C_18] Magnet Active
+[2019.08.09-12.31.37:465][361]LogBlueprintUserMessages: [B_Master_Tile_C_37] 38
+[2019.08.09-12.31.38:067][394]LogBlueprintUserMessages: [B_Master_Tile_C_38] 39
+[2019.08.09-12.31.38:610][425]LogBlueprintUserMessages: [B_Master_Tile_C_39] 40
+[2019.08.09-12.31.38:637][427]LogBlueprintUserMessages: [MagnetBP_C_20] Magnet Active
+[2019.08.09-12.31.38:719][432]LogBlueprintUserMessages: [MagnetBP_C_19] Magnet Active
+[2019.08.09-12.31.39:178][460]LogBlueprintUserMessages: [B_Master_Tile_C_40] 41
+[2019.08.09-12.31.39:289][466]LogBlueprintUserMessages: [MagnetBP_C_21] Magnet Active
+[2019.08.09-12.31.39:732][493]LogBlueprintUserMessages: [B_Master_Tile_C_41] 42
+[2019.08.09-12.31.40:275][527]LogBlueprintUserMessages: [B_Master_Tile_C_42] 43
+[2019.08.09-12.31.40:820][561]LogBlueprintUserMessages: [B_Master_Tile_C_43] 44
+[2019.08.09-12.31.41:230][587]LogBlueprintUserMessages: [MagnetBP_C_22] Magnet Active
+[2019.08.09-12.31.41:363][594]LogBlueprintUserMessages: [B_Master_Tile_C_44] 45
+[2019.08.09-12.31.41:888][625]LogBlueprintUserMessages: [B_Master_Tile_C_45] 46
+[2019.08.09-12.31.42:418][658]LogBlueprintUserMessages: [B_Master_Tile_C_46] 47
+[2019.08.09-12.31.42:951][690]LogBlueprintUserMessages: [B_Master_Tile_C_47] 48
+[2019.08.09-12.31.43:453][721]LogBlueprintUserMessages: [B_Master_Tile_C_48] 49
+[2019.08.09-12.31.43:974][753]LogBlueprintUserMessages: [B_Master_Tile_C_49] 50
+[2019.08.09-12.31.44:471][783]LogBlueprintUserMessages: [B_Master_Tile_C_50] 51
+[2019.08.09-12.31.44:986][813]LogBlueprintUserMessages: [B_Master_Tile_C_51] 52
+[2019.08.09-12.31.45:355][834]LogBlueprintUserMessages: [MagnetBP_C_23] Magnet Active
+[2019.08.09-12.31.45:475][841]LogBlueprintUserMessages: [B_Master_Tile_C_52] 53
+[2019.08.09-12.31.45:954][869]LogBlueprintUserMessages: [B_Master_Tile_C_53] 54
+[2019.08.09-12.31.46:459][900]LogBlueprintUserMessages: [B_Master_Tile_C_54] 55
+[2019.08.09-12.31.46:544][905]LogBlueprintUserMessages: [MagnetBP_C_24] Magnet Active
+[2019.08.09-12.31.46:934][928]LogBlueprintUserMessages: [B_Master_Tile_C_55] 56
+[2019.08.09-12.31.47:035][934]LogBlueprintUserMessages: [MagnetBP_C_25] Magnet Active
+[2019.08.09-12.31.47:406][954]LogBlueprintUserMessages: [B_Master_Tile_C_56] 57
+[2019.08.09-12.31.47:881][980]LogBlueprintUserMessages: [B_Master_Tile_C_57] 58
+[2019.08.09-12.31.47:909][982]LogBlueprintUserMessages: [MagnetBP_C_26] Magnet Active
+[2019.08.09-12.31.48:348][  9]LogBlueprintUserMessages: [B_Master_Tile_C_58] 59
+[2019.08.09-12.31.48:722][ 32]LogBlueprintUserMessages: [MagnetBP_C_27] Magnet Active
+[2019.08.09-12.31.48:806][ 37]LogBlueprintUserMessages: [B_Master_Tile_C_59] 60
+[2019.08.09-12.31.49:272][ 65]LogBlueprintUserMessages: [B_Master_Tile_C_60] 61
+[2019.08.09-12.31.49:297][ 66]LogBlueprintUserMessages: [MagnetBP_C_28] Magnet Active
+[2019.08.09-12.31.49:732][ 90]LogBlueprintUserMessages: [B_Master_Tile_C_61] 62
+[2019.08.09-12.31.50:175][114]LogBlueprintUserMessages: [B_Master_Tile_C_62] 63
+[2019.08.09-12.31.50:407][128]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.31.50:407][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-12.31.50:465][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.09-12.31.50:465][128]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Runner/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Runner/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Runner/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.09-12.31.50:538][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.09-12.31.50:601][129]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.08.09-12.32.28:051][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Runner/Blue_Prints/CoinBP" FILE="../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset" SILENT=true
+[2019.08.09-12.32.28:104][866]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/CoinBPC4F65D5947B4ED6456F814AA6FC05FFB.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Content/Runner/Blue_Prints/CoinBP.uasset'
+[2019.08.09-12.32.28:933][939]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.09-12.32.49:970][187]LogHttp: Warning: 0000023412F2CF40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-12.32.49:970][187]LogHttp: Warning: 0000023412F2CF40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-12.32.49:970][187]LogHttp: Warning: 0000023412F2CF40: libcurl info message cache 1 (Closing connection 28)
+[2019.08.09-12.32.50:308][188]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-12.34.50:921][625]LogHttp: Warning: 00000233B3910400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-12.34.50:921][625]LogHttp: Warning: 00000233B3910400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-12.34.50:921][625]LogHttp: Warning: 00000233B3910400: libcurl info message cache 1 (Closing connection 29)
+[2019.08.09-12.34.51:260][626]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-12.36.12:861][ 12]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Runner/Blue_Prints/B_Master_Tile.B_Master_Tile
+[2019.08.09-12.36.39:399][707]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::RandomIntegerInRange' [Element not found.]
+[2019.08.09-12.36.51:306][956]LogHttp: Warning: 0000023419A4C900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.09-12.36.51:306][956]LogHttp: Warning: 0000023419A4C900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.09-12.36.51:306][956]LogHttp: Warning: 0000023419A4C900: libcurl info message cache 1 (Closing connection 30)
+[2019.08.09-12.36.51:306][956]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58FE9E2C-4DD4-7680-D601-D59D997F58DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.09-12.37.24:138][873]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Runner/Levels/Level1' took 0.037
+[2019.08.09-12.37.24:140][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Runner/Blue_Prints/B_Master_Tile] ([1] browsable assets)...
+[2019.08.09-12.37.24:166][873]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Runner/Blue_Prints/B_Master_Tile.B_Master_Tile]
+[2019.08.09-12.37.24:166][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Runner/Blue_Prints/B_Master_Tile]
+[2019.08.09-12.37.24:244][873]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/Runner/Saved/B_Master_Tile_Auto1C968CD3348A4908AE70018B83849DF64.tmp' to '../../../../../../Users/prasanth/Desktop/Runner/Saved/Autosaves/Game/Runner/Blue_Prints/B_Master_Tile_Auto1.uasset'
+[2019.08.09-12.37.24:245][873]LogFileHelpers: Auto-saving content packages took 0.107
