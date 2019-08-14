@@ -1,0 +1,1 @@
+../../../Runner/Runner.uproject  /Game/Runner/Levels/Level1 -Messaging -SessionId=C1CEE9284A4C5D51B015DCA39B93D10B -SessionOwner="prasanth" -SessionName="Launch On Device" -iterative
