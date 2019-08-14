@@ -1270,3 +1270,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.14-04.11.56:645][294]LogHttp: Warning: 0000023969D9E480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
 [2019.08.14-04.11.56:645][294]LogHttp: Warning: 0000023969D9E480: libcurl info message cache 1 (Closing connection 15)
 [2019.08.14-04.11.56:645][294]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10F57891-41B6-E386-6BE8-63A4AE9B547B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.14-04.13.56:694][490]LogHttp: Warning: 0000023969D9D080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.14-04.13.56:694][490]LogHttp: Warning: 0000023969D9D080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.14-04.13.56:694][490]LogHttp: Warning: 0000023969D9D080: libcurl info message cache 1 (Closing connection 16)
+[2019.08.14-04.13.56:694][490]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10F57891-41B6-E386-6BE8-63A4AE9B547B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.14-04.14.04:065][857]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.14-04.14.04:199][860]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Runner
+[2019.08.14-04.14.04:199][860]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.08.14-04.14.04:199][860]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.08.14-04.14.04:199][860]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.08.14-04.14.04:207][860]LogTemp: BranchPath = DESKTOP-6I3IUC9/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-6I3IUC9/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.08.14-04.14.04:226][860]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\prasanth\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.08.14-04.15.57:048][373]LogHttp: Warning: 000002394A374CC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.14-04.15.57:048][373]LogHttp: Warning: 000002394A374CC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.14-04.15.57:048][373]LogHttp: Warning: 000002394A374CC0: libcurl info message cache 1 (Closing connection 17)
+[2019.08.14-04.15.57:386][374]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10F57891-41B6-E386-6BE8-63A4AE9B547B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.14-04.17.40:642][456]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.14-04.17.40:748][458]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Runner
+[2019.08.14-04.17.40:748][458]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.08.14-04.17.40:748][458]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.08.14-04.17.40:748][458]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.08.14-04.17.40:754][458]LogTemp: BranchPath = DESKTOP-6I3IUC9/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-6I3IUC9/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.08.14-04.17.40:776][458]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\prasanth\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.08.14-04.17.49:810][886]LogSlate: Window 'Tutorials' being destroyed
+[2019.08.14-04.17.57:419][336]LogHttp: Warning: 0000023990757600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.14-04.17.57:419][336]LogHttp: Warning: 0000023990757600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.14-04.17.57:419][336]LogHttp: Warning: 0000023990757600: libcurl info message cache 1 (Closing connection 18)
+[2019.08.14-04.17.57:419][336]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10F57891-41B6-E386-6BE8-63A4AE9B547B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
